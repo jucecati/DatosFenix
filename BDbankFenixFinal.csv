@@ -1,0 +1,1001 @@
+salario;sexo;estadocivil;edad;tiempoempleo;vivienda;tiemporesidencia;telefono;trabajo;historialcredito;diasatraso;proposito;montodecredito;plazo;cuentaahorro;otraspropiedades;fiador;creditosexistentes;personastrabajan;resultado
+1;Masculino;Casado;63;>=7;Propio;4;Si;Empleado;creditos existentes;0;Electrodomestico;1169;9;No;Casa;ninguno;2;1;Bueno
+2;Femenino;Soltera;27;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;5951;18;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Casado;49;4<=X<7;Propio;3;No;Obrero/Agricultor;creditos existentes;0;Educacion;2096;12;<1;Casa;ninguno;1;2;Bueno
+1;Masculino;Soltero;45;4<=X<7;Alquilada;4;No;Empleado;creditos pagados;0;Aumento capital;7882;24;<1;Terreno-Construccion;garante;1;2;Bueno
+1;Masculino;Casado;53;1<=X<4;Alquilada;4;No;Empleado;creditos pagados con retraso;1;Automovil;4870;24;<1;Ninguno;ninguno;2;2;Malo
+0;Masculino;Soltero;35;1<=X<4;Alquilada;4;Si;Obrero/Agricultor;creditos pagados;0;Aumento capital;9055;24;No;Ninguno;ninguno;1;2;Bueno
+0;Masculino;Casado;53;>=7;Propio;4;No;Empleado;creditos pagados;0;Aumento capital;2835;24;5<=X<10;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;35;1<=X<4;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Automovil;6948;36;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;divorciado/separado;61;4<=X<7;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;3059;12;>=10;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;28;Desempleado;Propio;2;No;Profesional/calificado;creditos existentes;0;Automovil;5234;30;<1;Automovil;ninguno;2;1;Malo
+2;Femenino;Soltera;25;<1;Alquilada;1;No;Empleado;creditos pagados;0;Educacion;1295;12;<1;Automovil;ninguno;1;1;Malo
+1;Femenino;Soltera;24;<1;Alquilada;1;No;Empleado;creditos pagados;0;Aumento capital;4308;24;<1;Terreno-Construccion;ninguno;1;1;Malo
+2;Femenino;Soltera;22;1<=X<4;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;1567;12;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Casado;60;>=7;Propio;4;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;1199;24;<1;Automovil;ninguno;2;1;Malo
+1;Femenino;divorciada/separada;28;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Reparaciones;1403;15;<1;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;32;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1282;18;1<=X<5;Automovil;ninguno;1;1;Malo
+0;Masculino;Casado;53;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;2424;18;No;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;Soltero;25;<1;Propio;2;No;Empleado;sin creditos;0;Aumento capital;8072;24;No;Automovil;ninguno;3;1;Bueno
+2;Femenino;divorciada/separada;44;>=7;Alquilada;3;Si;Profesional/calificado;creditos pagados;0;Automovil;12579;24;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;34;>=7;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;3430;18;5<=X<10;Automovil;ninguno;1;2;Bueno
+0;Masculino;Casado;48;1<=X<4;Propio;4;Si;Empleado;creditos existentes;0;Aumento capital;2134;18;<1;Automovil;ninguno;3;1;Bueno
+1;Masculino;Casado;44;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;2647;12;5<=X<10;Maquinaria;ninguno;1;2;Bueno
+1;Masculino;Casado;48;<1;Alquilada;3;No;Obrero/Agricultor;creditos existentes;0;Educacion;2241;18;<1;Maquinaria;ninguno;2;2;Bueno
+2;Masculino;Soltero;44;<1;Propio;4;No;Empleado;creditos existentes;0;Educacion;1804;12;1<=X<5;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;26;1<=X<4;Propio;1;No;Empleado;creditos existentes;0;Aumento capital;2069;18;No;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;36;1<=X<4;Propio;2;Si;Obrero/Agricultor;creditos pagados;0;Aumento capital;1374;12;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Casado;39;>=7;Propio;3;No;Obrero/Agricultor;sin creditos;0;Electrodomestico;800;10;<1;Automovil;ninguno;1;1;Bueno
+3;Femenino;divorciada/separada;46;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;900;12;>=10;Maquinaria;ninguno;2;1;Bueno
+2;Masculino;Soltero;34;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2415;12;<1;Casa;garante;1;1;Bueno
+1;Masculino;Casado;63;>=7;Propio;4;Si;Empleado;creditos pagados con retraso;2;Aumento capital;6836;24;<1;Ninguno;ninguno;2;1;Malo
+2;Masculino;Casado;46;<1;Propio;3;Si;Empleado;creditos pagados;0;Aumento capital;1913;16;>=10;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;27;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;4020;24;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;30;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Automovil;5866;30;1<=X<5;Automovil;ninguno;2;1;Bueno
+0;Masculino;Casado;57;>=7;Alquilada;4;No;Obrero/Agricultor;creditos existentes;0;Aumento capital;1264;12;No;Ninguno;ninguno;1;1;Bueno
+3;Femenino;divorciada/separada;35;<1;Propio;1;Si;Profesional/calificado;creditos pagados;0;Aumento capital;1474;12;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;25;<1;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;4746;18;<1;Terreno-Construccion;ninguno;2;1;Malo
+0;Masculino;Soltero;31;1<=X<4;Alquilada;3;Si;Empleado;creditos existentes;0;Educacion;6110;18;<1;Ninguno;ninguno;1;1;Bueno
+3;Masculino;Soltero;37;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2100;18;<1;Casa;co-solicitante;1;1;Malo
+3;Masculino;Soltero;37;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;1225;12;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;24;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;600;9;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;37;>=7;Propio;2;No;Profesional/calificado;creditos pagados;0;Electrodomestico;2333;18;5<=X<10;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;34;1<=X<4;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;1158;12;5<=X<10;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;44;1<=X<4;Propio;4;Si;Obrero/Agricultor;creditos pagados con retraso;1;Reparaciones;6204;18;<1;Casa;ninguno;1;2;Bueno
+1;Masculino;Casado;29;4<=X<7;Alquilada;2;No;Empleado;creditos existentes;0;Automovil;6187;30;1<=X<5;Automovil;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;58;>=7;Alquilada;4;No;Empleado;creditos existentes;0;Automovil;6143;36;<1;Ninguno;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;35;<1;Propio;3;No;Profesional/calificado;creditos existentes;0;Reparaciones;1393;12;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;39;>=7;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;2299;18;5<=X<10;Automovil;ninguno;1;1;Bueno
+1;Femenino;Soltera;31;Desempleado;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;1352;12;5<=X<10;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;39;1<=X<4;Propio;3;No;Obrero/Agricultor;creditos existentes;0;Automovil;7228;30;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;30;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2073;16;1<=X<5;Casa;co-solicitante;1;1;Bueno
+2;Masculino;Soltero;29;<1;Propio;2;No;Obrero/Agricultor;creditos pagados con retraso;2;Aumento capital;2333;24;No;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;30;>=7;Propio;2;Si;Profesional/calificado;creditos pagados con retraso;1;Automovil;5965;27;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;25;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1262;12;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;31;1<=X<4;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;3378;18;No;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Casado;57;>=7;Alquilada;4;Si;Empleado;creditos pagados con retraso;1;Aumento capital;2225;18;<1;Ninguno;ninguno;2;1;Malo
+0;Masculino;Soltero;26;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;783;6;No;Casa;garante;1;2;Bueno
+2;Masculino;Casado;52;Desempleado;Propio;1;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;6468;18;No;Ninguno;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;31;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;9566;18;<1;Automovil;ninguno;2;1;Bueno
+3;Femenino;Soltera;31;>=7;Propio;2;No;Profesional/calificado;creditos pagados;0;Educacion;1961;12;<1;Automovil;ninguno;1;1;Bueno
+1;Femenino;Soltera;25;<1;Alquilada;1;Si;Empleado;creditos existentes;0;Aumento capital;6229;24;<1;Ninguno;co-solicitante;2;1;Malo
+2;Masculino;Casado;27;1<=X<4;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;1391;9;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Casado;50;>=7;Propio;4;Si;Empleado;creditos existentes;0;Electrodomestico;1537;12;No;Casa;garante;2;1;Bueno
+2;Masculino;Casado;61;>=7;Alquilada;4;Si;Profesional/calificado;sin creditos;0;Aumento capital;1953;18;<1;Ninguno;ninguno;1;1;Malo
+2;Masculino;Soltero;28;1<=X<4;Propio;2;Si;Empleado;sin creditos;0;Aumento capital;14421;18;<1;Automovil;ninguno;1;1;Malo
+0;Femenino;Soltera;27;<1;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;3181;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;48;>=7;Propio;4;Si;Empleado;creditos pagados;0;Reparaciones;5190;24;No;Terreno-Construccion;ninguno;4;2;Bueno
+0;Femenino;divorciada/separada;29;<1;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2171;18;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;38;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1007;12;>=10;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;37;1<=X<4;Alquilada;3;Si;Empleado;creditos pagados;0;Educacion;1819;18;<1;Ninguno;ninguno;1;1;Malo
+0;Femenino;Soltera;29;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2394;18;No;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;30;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Automovil;8133;36;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;46;>=7;Alquilada;2;Si;Obrero/Agricultor;creditos existentes;0;Electrodomestico;730;7;No;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;Casado;51;>=7;Alquilada;4;Si;Profesional/calificado;creditos existentes;0;Otros;1164;10;<1;Ninguno;ninguno;2;2;Bueno
+2;Femenino;divorciada/separada;41;4<=X<7;Propio;1;No;Empleado;creditos existentes;0;Aumento capital;5954;24;<1;Casa;ninguno;2;1;Bueno
+1;Masculino;Soltero;40;>=7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Educacion;1977;12;No;Ninguno;ninguno;1;1;Malo
+1;Masculino;Casado;66;>=7;Alquilada;4;No;Profesional/calificado;creditos existentes;0;Reparaciones;1526;12;<1;Ninguno;ninguno;2;1;Bueno
+1;Masculino;Soltero;34;<1;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;3965;18;<1;Automovil;ninguno;1;1;Malo
+2;Masculino;Casado;51;4<=X<7;Propio;4;No;Empleado;creditos pagados con retraso;1;Electrodomestico;4771;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Casado;39;1<=X<4;Propio;2;No;Obrero/Agricultor;sin creditos;0;Automovil;9436;36;No;Terreno-Construccion;ninguno;1;2;Bueno
+2;Masculino;Soltero;32;<1;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;3832;24;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;44;<1;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;5943;18;No;Automovil;ninguno;2;1;Malo
+0;Masculino;Soltero;47;>=7;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;1213;18;5<=X<10;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;34;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;1568;18;1<=X<5;Terreno-Construccion;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;58;>=7;Propio;4;Si;Empleado;creditos pagados;0;Otros;1755;12;<1;Casa;garante;1;1;Bueno
+1;Masculino;Casado;52;>=7;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;2315;18;<1;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;29;1<=X<4;Propio;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;1412;12;<1;Casa;garante;2;1;Bueno
+2;Femenino;divorciada/separada;27;<1;Propio;1;No;Empleado;creditos existentes;0;Aumento capital;1295;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;47;1<=X<4;Alquilada;4;Si;Empleado;creditos pagados;0;Automovil;12612;36;1<=X<5;Ninguno;ninguno;1;2;Malo
+1;Masculino;Soltero;30;4<=X<7;Propio;3;Si;Profesional/calificado;creditos pagados;0;Reparaciones;2249;18;1<=X<5;Automovil;ninguno;1;2;Bueno
+1;Masculino;Soltero;28;4<=X<7;Propio;2;No;Empleado;sin creditos;0;Reparaciones;1108;12;<1;Casa;ninguno;2;1;Malo
+0;Masculino;Casado;56;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;800;10;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;Casado;54;>=7;Propio;3;No;Empleado;creditos existentes;0;Educacion;1409;12;<1;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;33;>=7;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;797;12;No;Terreno-Construccion;ninguno;1;2;Malo
+3;Masculino;Soltero;36;>=7;Alquilada;2;No;Empleado;creditos existentes;0;Aumento capital;3617;24;No;Ninguno;co-solicitante;2;1;Bueno
+2;Masculino;Casado;54;>=7;Propio;4;Si;Empleado;creditos pagados;0;Electrodomestico;1318;12;>=10;Casa;ninguno;1;1;Bueno
+2;Masculino;Casado;58;<1;Alquilada;4;Si;Empleado;sin creditos;0;Aumento capital;15945;24;<1;Ninguno;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;61;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Educacion;2012;12;No;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;34;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;2622;18;1<=X<5;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;>=7;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;2337;12;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;4<=X<7;Alquilada;3;Si;Profesional/calificado;creditos pagados con retraso;1;Automovil;7057;30;No;Terreno-Construccion;ninguno;2;2;Bueno
+0;Masculino;Casado;41;>=7;Alquilada;4;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1469;12;1<=X<5;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;34;4<=X<7;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;2323;18;<1;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;34;1<=X<4;Propio;2;No;Empleado;creditos pagados con retraso;1;Electrodomestico;932;12;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;35;4<=X<7;Alquilada;3;Si;Empleado;creditos existentes;0;Aumento capital;1919;18;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Casado;26;<1;Alquilada;2;Si;Empleado;creditos pagados;0;Educacion;2445;18;No;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;39;1<=X<4;Propio;3;Si;Profesional/calificado;creditos existentes;0;Otros;11938;24;<1;Automovil;co-solicitante;2;2;Malo
+0;Masculino;Soltero;39;>=7;Propio;3;Si;Profesional/calificado;creditos pagados;0;Automovil;6458;30;<1;Ninguno;ninguno;2;2;Malo
+2;Masculino;Soltero;32;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Automovil;6078;30;<1;Automovil;ninguno;1;1;Bueno
+1;Femenino;Soltera;30;<1;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;7721;24;No;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Casado;35;>=7;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;1410;14;5<=X<10;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;31;>=7;Propio;2;No;Empleado;creditos pagados con retraso;1;Aumento capital;1449;12;1<=X<5;Automovil;ninguno;2;2;Bueno
+3;Femenino;Soltera;26;<1;Alquilada;2;Si;Empleado;creditos pagados;0;Educacion;1200;15;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;28;4<=X<7;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Automovil;6260;18;<1;Maquinaria;ninguno;1;1;Bueno
+0;Femenino;Soltera;27;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Automovil;7855;36;<1;Casa;ninguno;2;1;Malo
+1;Masculino;Casado;35;>=7;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1680;12;5<=X<10;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;47;>=7;Propio;1;Si;Empleado;creditos existentes;0;Electrodomestico;3578;18;No;Casa;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;30;4<=X<7;Propio;3;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;7174;18;No;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;27;<1;Alquilada;2;No;Empleado;creditos existentes;0;Aumento capital;2132;18;No;Maquinaria;co-solicitante;2;1;Bueno
+1;Femenino;Soltera;32;1<=X<4;Propio;3;No;Empleado;creditos existentes;0;Aumento capital;4281;18;5<=X<10;Automovil;ninguno;2;1;Malo
+2;Masculino;Soltero;36;4<=X<7;Propio;3;Si;Profesional/calificado;creditos existentes;0;Educacion;2366;18;5<=X<10;Automovil;ninguno;1;1;Bueno
+1;Femenino;Soltera;28;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;1835;18;<1;Casa;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;41;>=7;Alquilada;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;3868;24;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;29;1<=X<4;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1768;18;<1;Maquinaria;ninguno;1;1;Bueno
+3;Masculino;Casado;63;>=7;Alquilada;4;Si;Empleado;creditos existentes;0;Electrodomestico;781;10;<1;Ninguno;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;27;<1;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;1924;18;No;Maquinaria;ninguno;1;1;Malo
+1;Masculino;Soltero;30;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Educacion;2121;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;Casado;40;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;701;12;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;30;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;639;12;<1;Automovil;ninguno;1;1;Malo
+2;Masculino;Soltero;34;Desempleado;Propio;2;Si;Profesional/calificado;creditos existentes;0;Electrodomestico;1860;12;<1;Automovil;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;29;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Reparaciones;3499;18;<1;Casa;co-solicitante;2;1;Malo
+2;Femenino;Soltera;34;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Automovil;8487;36;No;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;29;1<=X<4;Propio;2;Si;Empleado;creditos pagados con retraso;2;Educacion;6887;18;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;27;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;2708;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;47;1<=X<4;Alquilada;4;No;Empleado;creditos pagados;0;Aumento capital;1984;18;<1;Ninguno;ninguno;2;1;Bueno
+0;Femenino;Soltera;29;4<=X<7;Propio;1;Si;Empleado;creditos pagados;0;Automovil;10144;36;1<=X<5;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;38;>=7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;1240;12;No;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;27;1<=X<4;Propio;2;No;Empleado;creditos pagados con retraso;1;Automovil;8613;36;>=10;Automovil;ninguno;2;1;Bueno
+2;Masculino;Casado;66;1<=X<4;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;766;12;5<=X<10;Casa;ninguno;1;1;Malo
+2;Masculino;Soltero;35;4<=X<7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;2728;18;No;Casa;garante;3;1;Bueno
+3;Femenino;divorciada/separada;44;1<=X<4;Alquilada;2;Si;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1881;12;<1;Automovil;ninguno;1;1;Bueno
+3;Masculino;Casado;48;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;709;8;>=10;Casa;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;30;<1;Propio;1;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;4795;18;<1;Ninguno;ninguno;1;1;Bueno
+1;Masculino;Soltero;27;1<=X<4;Propio;2;No;Profesional/calificado;creditos pagados;0;Electrodomestico;3416;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;32;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;2462;18;<1;Automovil;ninguno;1;1;Malo
+0;Femenino;Soltera;33;<1;Propio;3;Si;Empleado;creditos existentes;0;Aumento capital;2288;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;34;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;3566;24;1<=X<5;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;39;>=7;Propio;3;Si;Empleado;creditos existentes;0;Electrodomestico;860;6;<1;Ninguno;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;51;4<=X<7;Propio;3;Si;Empleado;creditos existentes;0;Electrodomestico;682;10;1<=X<5;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;28;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;5371;24;<1;Terreno-Construccion;garante;2;1;Bueno
+0;Masculino;Soltero;46;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;1582;12;>=10;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;42;>=7;Alquilada;4;Si;Empleado;creditos pagados;0;Electrodomestico;1346;12;1<=X<5;Ninguno;ninguno;1;2;Bueno
+0;Masculino;Soltero;38;1<=X<4;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;1924;12;<1;Terreno-Construccion;ninguno;1;1;Bueno
+3;Masculino;Soltero;34;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;5848;18;<1;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;45;>=7;Alquilada;4;No;Empleado;creditos existentes;0;Automovil;7758;30;>=10;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;4<=X<7;Alquilada;3;Si;Profesional/calificado;creditos pagados con retraso;1;Aumento capital;6967;24;1<=X<5;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;42;1<=X<4;Alquilada;4;No;Empleado;creditos pagados;0;Aumento capital;1282;12;<1;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;48;>=7;Propio;4;No;Empleado;creditos existentes;0;Reparaciones;1288;9;1<=X<5;Casa;garante;2;2;Bueno
+1;Masculino;Casado;45;>=7;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Educacion;1100;12;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;38;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Reparaciones;3512;18;1<=X<5;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;34;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1898;12;No;Casa;ninguno;2;2;Bueno
+0;Masculino;Soltero;36;>=7;Propio;3;Si;Empleado;creditos existentes;0;Electrodomestico;2872;18;1<=X<5;Casa;ninguno;1;2;Bueno
+0;Femenino;divorciada/separada;37;<1;Propio;1;No;Empleado;creditos existentes;0;Educacion;1055;12;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;36;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;1262;18;5<=X<10;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Casado;62;Desempleado;Alquilada;4;Si;Profesional/calificado;creditos pagados;0;Automovil;7308;30;<1;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;36;>=7;Propio;3;No;Empleado;creditos pagados;0;Educacion;909;12;5<=X<10;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;37;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;2978;18;5<=X<10;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;33;Desempleado;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1131;12;<1;Automovil;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;48;<1;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;1577;18;>=10;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;35;4<=X<7;Alquilada;3;Si;Empleado;creditos pagados;0;Aumento capital;3972;24;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;divorciado/separado;31;>=7;Propio;3;Si;Empleado;creditos existentes;0;Aumento capital;1935;18;<1;Casa;ninguno;2;1;Malo
+1;Masculino;Soltero;33;>=7;Alquilada;3;No;Empleado;sin creditos;0;Educacion;950;12;<1;Automovil;ninguno;2;2;Malo
+0;Femenino;divorciada/separada;36;1<=X<4;Propio;1;Si;Empleado;creditos pagados;0;Educacion;763;10;<1;Casa;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;34;Desempleado;Propio;2;Si;Profesional/calificado;creditos pagados con retraso;2;Aumento capital;2064;18;<1;Terreno-Construccion;ninguno;1;1;Malo
+2;Masculino;Soltero;33;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1414;12;<1;Casa;garante;1;1;Bueno
+1;Masculino;Soltero;26;<1;Propio;1;No;Empleado;creditos pagados con retraso;2;Educacion;3414;18;<1;Terreno-Construccion;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;53;Desempleado;Propio;1;Si;Profesional/calificado;creditos pagados;0;Automovil;7485;30;No;Casa;ninguno;1;1;Malo
+1;Masculino;divorciado/separado;42;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;2577;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;52;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;1100;12;5<=X<10;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;31;4<=X<7;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;1963;18;<1;Automovil;ninguno;2;2;Bueno
+1;Masculino;Casado;65;>=7;Propio;4;No;Empleado;creditos existentes;0;Educacion;1100;12;<1;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;28;<1;Propio;1;No;Empleado;creditos pagados con retraso;1;Aumento capital;9572;24;<1;Automovil;ninguno;2;1;Malo
+2;Masculino;divorciado/separado;30;1<=X<4;Propio;2;Si;Profesional/calificado;creditos pagados con retraso;1;Aumento capital;4455;18;<1;Casa;ninguno;2;1;Malo
+1;Masculino;Soltero;40;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1647;18;No;Terreno-Construccion;ninguno;2;2;Malo
+0;Masculino;Soltero;50;1<=X<4;Propio;4;Si;Empleado;creditos existentes;0;Aumento capital;3777;24;>=10;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;>=7;Propio;3;Si;Empleado;creditos existentes;0;Reparaciones;884;12;<1;Automovil;ninguno;1;2;Malo
+0;Masculino;Soltero;31;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1360;15;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;61;>=7;Alquilada;4;Si;Profesional/calificado;creditos pagados;0;Automovil;5129;30;<1;Ninguno;ninguno;1;2;Malo
+2;Masculino;Casado;58;Desempleado;Alquilada;3;Si;Obrero/Agricultor;creditos existentes;0;Educacion;1175;12;<1;Automovil;ninguno;3;1;Bueno
+1;Masculino;Casado;40;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;674;8;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;33;1<=X<4;Propio;3;Si;Empleado;sin creditos;0;Aumento capital;3244;18;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;54;1<=X<4;Propio;3;Si;Profesional/calificado;creditos pagados;0;Aumento capital;4591;24;>=10;Terreno-Construccion;ninguno;3;1;Malo
+2;Masculino;Soltero;34;4<=X<7;Alquilada;3;No;Obrero/Agricultor;sin creditos;0;Aumento capital;3844;24;1<=X<5;Ninguno;ninguno;1;2;Malo
+2;Masculino;Soltero;36;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;3915;24;<1;Automovil;ninguno;1;2;Malo
+0;Masculino;Casado;39;4<=X<7;Alquilada;2;No;Empleado;creditos pagados;0;Electrodomestico;2108;18;<1;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;31;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;3031;18;1<=X<5;Terreno-Construccion;garante;1;1;Malo
+2;Femenino;divorciada/separada;34;>=7;Propio;3;Si;Profesional/calificado;creditos existentes;0;Educacion;1501;12;<1;Automovil;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;28;1<=X<4;Propio;1;Si;Empleado;creditos existentes;0;Electrodomestico;1382;12;<1;Automovil;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;35;<1;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;951;12;1<=X<5;Automovil;ninguno;4;1;Malo
+2;Masculino;Soltero;36;>=7;Alquilada;3;Si;Empleado;creditos pagados;0;Aumento capital;2760;24;No;Ninguno;ninguno;1;1;Bueno
+2;Masculino;divorciado/separado;40;>=7;Propio;3;Si;Profesional/calificado;creditos pagados con retraso;1;Aumento capital;4297;24;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;52;>=7;Propio;2;Si;Empleado;creditos existentes;0;Educacion;936;9;5<=X<10;Automovil;ninguno;2;1;Bueno
+1;Masculino;Casado;34;1<=X<4;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1168;12;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;26;4<=X<7;Propio;2;No;Empleado;creditos pagados con retraso;1;Aumento capital;5117;24;<1;Automovil;ninguno;2;1;Bueno
+1;Masculino;Casado;41;4<=X<7;Alquilada;4;No;Empleado;creditos pagados;0;Educacion;902;12;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;38;>=7;Propio;1;No;Obrero/Agricultor;creditos existentes;0;Educacion;1495;12;<1;Casa;ninguno;2;2;Bueno
+1;Masculino;Soltero;38;>=7;Alquilada;3;Si;Profesional/calificado;creditos existentes;0;Automovil;10623;36;<1;Ninguno;ninguno;3;2;Bueno
+0;Masculino;Soltero;43;>=7;Propio;4;Si;Empleado;creditos existentes;0;Aumento capital;1935;12;<1;Casa;ninguno;3;1;Bueno
+2;Masculino;Soltero;26;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1424;12;<1;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Casado;41;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;6568;24;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Casado;55;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;1413;12;>=10;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;33;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;3074;18;No;Casa;ninguno;2;2;Bueno
+0;Femenino;divorciada/separada;45;>=7;Propio;4;Si;Empleado;creditos pagados;0;Electrodomestico;3835;18;No;Casa;ninguno;1;1;Bueno
+1;Masculino;Casado;50;Desempleado;Propio;4;Si;Empleado;sin creditos;0;Aumento capital;5293;24;<1;Terreno-Construccion;ninguno;2;1;Malo
+3;Masculino;Casado;56;>=7;Propio;4;Si;Profesional/calificado;creditos pagados con retraso;2;Aumento capital;1908;24;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Casado;51;>=7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;3342;18;No;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;39;4<=X<7;Propio;3;No;Empleado;creditos existentes;0;Educacion;932;10;No;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;Soltero;31;4<=X<7;Propio;1;Si;Empleado;sin creditos;0;Aumento capital;3104;24;<1;Terreno-Construccion;ninguno;1;1;Bueno
+3;Masculino;Soltero;27;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;3913;18;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;divorciado/separado;38;1<=X<4;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;3021;24;<1;Maquinaria;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;54;1<=X<4;Propio;4;Si;Empleado;creditos pagados;0;Reparaciones;1364;12;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Casado;28;<1;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;625;10;<1;Casa;garante;1;1;Bueno
+1;Femenino;divorciada/separada;33;1<=X<4;Alquilada;3;Si;Empleado;creditos pagados;0;Educacion;1200;12;No;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;30;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;707;12;<1;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;32;1<=X<4;Propio;2;Si;Empleado;creditos pagados con retraso;1;Aumento capital;2978;18;No;Casa;ninguno;2;2;Bueno
+0;Masculino;Soltero;30;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Automovil;4657;30;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;27;1<=X<4;Propio;2;No;Empleado;sin creditos;0;Reparaciones;2613;18;<1;Automovil;ninguno;2;1;Bueno
+2;Masculino;Soltero;35;4<=X<7;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;10961;24;>=10;Ninguno;co-solicitante;2;1;Malo
+1;Masculino;Casado;53;>=7;Alquilada;4;Si;Profesional/calificado;creditos pagados;0;Aumento capital;7865;18;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;32;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1478;12;<1;Automovil;ninguno;1;1;Malo
+1;Masculino;Soltero;31;<1;Alquilada;1;No;Empleado;creditos pagados;0;Aumento capital;3149;24;<1;Ninguno;ninguno;1;1;Bueno
+3;Masculino;Soltero;26;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;4210;24;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Casado;51;>=7;Alquilada;4;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;2507;24;5<=X<10;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;35;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;2141;18;1<=X<5;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Casado;29;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;866;12;<1;Casa;garante;1;1;Bueno
+0;Masculino;Soltero;42;4<=X<7;Propio;1;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1544;12;<1;Casa;ninguno;3;2;Bueno
+1;Masculino;Soltero;30;Desempleado;Propio;2;No;Profesional/calificado;creditos pagados;0;Electrodomestico;1823;18;<1;Automovil;ninguno;1;2;Malo
+2;Masculino;Soltero;31;Desempleado;Propio;2;Si;Obrero/Agricultor;creditos pagados;0;Automovil;14555;36;No;Terreno-Construccion;ninguno;1;1;Malo
+2;Masculino;divorciado/separado;61;>=7;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;2767;18;1<=X<5;Automovil;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;35;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1291;12;<1;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;Soltero;39;>=7;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;2522;18;<1;Terreno-Construccion;garante;1;2;Bueno
+1;Femenino;divorciada/separada;29;>=7;Propio;2;No;Empleado;creditos pagados;0;Educacion;1200;12;No;Automovil;ninguno;1;1;Malo
+0;Masculino;Casado;51;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1595;12;<1;Terreno-Construccion;ninguno;1;2;Bueno
+1;Masculino;Soltero;26;>=7;Alquilada;2;No;Empleado;sin creditos;0;Automovil;4605;36;<1;Ninguno;ninguno;2;2;Malo
+0;Femenino;divorciada/separada;27;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;1185;24;<1;Casa;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;35;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Educacion;3447;18;5<=X<10;Casa;ninguno;1;2;Bueno
+0;Masculino;Soltero;25;4<=X<7;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;1258;12;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Casado;52;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;717;12;<1;Casa;ninguno;3;1;Bueno
+0;Masculino;Soltero;35;1<=X<4;Alquilada;1;No;Empleado;sin creditos;0;Reparaciones;1204;10;1<=X<5;Ninguno;ninguno;1;1;Bueno
+3;Masculino;Soltero;26;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1925;18;<1;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;32;Desempleado;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;600;10;<1;Maquinaria;co-solicitante;1;1;Malo
+1;Femenino;divorciada/separada;47;4<=X<7;Propio;4;Si;Empleado;creditos existentes;0;Electrodomestico;666;9;>=10;Casa;ninguno;2;1;Bueno
+3;Femenino;divorciada/separada;46;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;2251;12;<1;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;34;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;2150;18;<1;Ninguno;garante;1;1;Malo
+0;Masculino;Soltero;35;1<=X<4;Propio;3;No;Empleado;creditos pagados con retraso;2;Aumento capital;4151;24;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;24;4<=X<7;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;2030;24;No;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;27;1<=X<4;Propio;1;No;Obrero/Agricultor;creditos pagados con retraso;1;Electrodomestico;7418;24;No;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;35;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;2684;18;<1;Casa;ninguno;2;1;Bueno
+1;Masculino;divorciado/separado;29;1<=X<4;Alquilada;1;No;Empleado;creditos pagados;0;Electrodomestico;2149;18;<1;Ninguno;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;38;<1;Propio;3;Si;Empleado;creditos pagados;0;Reparaciones;3812;18;1<=X<5;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;57;Desempleado;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;1154;12;1<=X<5;Casa;ninguno;3;1;Bueno
+1;Masculino;Soltero;27;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1657;18;<1;Casa;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;55;>=7;Propio;4;No;Empleado;creditos pagados;0;Electrodomestico;1603;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;36;>=7;Alquilada;3;Si;Profesional/calificado;creditos existentes;0;Automovil;5302;30;<1;Ninguno;ninguno;3;1;Bueno
+0;Femenino;divorciada/separada;57;>=7;Alquilada;4;No;Empleado;creditos existentes;0;Educacion;2748;18;<1;Ninguno;ninguno;3;1;Bueno
+0;Masculino;Soltero;32;>=7;Propio;3;No;Obrero/Agricultor;creditos existentes;0;Educacion;1231;12;<1;Casa;ninguno;2;2;Bueno
+2;Masculino;Soltero;37;>=7;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;802;12;<1;Automovil;ninguno;1;2;Malo
+0;Masculino;Soltero;36;>=7;Propio;3;No;Empleado;creditos existentes;0;Aumento capital;6304;24;No;Casa;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;38;<1;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;1533;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;divorciado/separado;45;>=7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Automovil;8978;30;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;31;>=7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;999;12;No;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;32;4<=X<7;Propio;3;No;Empleado;creditos pagados;0;Reparaciones;2662;18;No;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;37;4<=X<7;Alquilada;3;Si;Empleado;creditos existentes;0;Aumento capital;1402;12;5<=X<10;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;Desempleado;Alquilada;3;Si;Profesional/calificado;creditos pagados;0;Automovil;12169;36;No;Ninguno;co-solicitante;1;1;Bueno
+2;Masculino;Soltero;28;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3060;18;<1;Casa;ninguno;2;1;Malo
+1;Masculino;divorciado/separado;34;<1;Propio;1;Si;Obrero/Agricultor;creditos pagados;0;Automovil;11998;36;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;32;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2697;18;<1;Casa;ninguno;1;2;Bueno
+0;Femenino;divorciada/separada;31;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;2404;18;<1;Automovil;ninguno;2;1;Bueno
+1;Masculino;divorciado/separado;49;>=7;Propio;4;Si;Obrero/Agricultor;creditos pagados;0;Aumento capital;1262;12;No;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;32;<1;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;4611;24;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;29;1<=X<4;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;1901;12;1<=X<5;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;39;>=7;Alquilada;2;Si;Empleado;creditos existentes;0;Aumento capital;3368;20;>=10;Ninguno;ninguno;2;1;Bueno
+0;Masculino;Soltero;50;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Reparaciones;1574;12;<1;Casa;ninguno;1;1;Bueno
+3;Masculino;Soltero;49;4<=X<7;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1445;18;No;Automovil;ninguno;1;1;Bueno
+0;Masculino;Casado;63;>=7;Propio;3;No;Empleado;creditos existentes;0;Aumento capital;1520;15;No;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;divorciado/separado;37;<1;Propio;2;Si;Empleado;creditos existentes;0;Reparaciones;3878;24;1<=X<5;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;35;<1;Propio;1;Si;Empleado;creditos pagados;0;Automovil;10722;36;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;36;4<=X<7;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;4788;24;<1;Terreno-Construccion;ninguno;1;2;Bueno
+2;Masculino;Soltero;31;Desempleado;Alquilada;2;Si;Profesional/calificado;creditos pagados con retraso;1;Otros;7582;36;1<=X<5;Ninguno;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;49;1<=X<4;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;1092;12;<1;Casa;garante;2;1;Bueno
+1;Masculino;Casado;48;<1;Propio;2;No;Empleado;creditos pagados con retraso;1;Electrodomestico;1024;12;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Casado;32;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;1076;12;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Casado;28;<1;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Automovil;9398;36;<1;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;44;>=7;Alquilada;2;Si;Profesional/calificado;creditos existentes;0;Automovil;6419;24;<1;Ninguno;ninguno;2;2;Bueno
+3;Masculino;Soltero;56;>=7;Alquilada;2;No;Empleado;creditos existentes;0;Aumento capital;4796;24;<1;Ninguno;ninguno;1;1;Bueno
+0;Masculino;divorciado/separado;46;>=7;Propio;2;No;Profesional/calificado;creditos existentes;0;Aumento capital;7629;24;No;Automovil;ninguno;2;2;Bueno
+2;Femenino;divorciada/separada;26;<1;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;9960;48;<1;Automovil;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;31;<1;Alquilada;1;No;Empleado;creditos pagados;0;Aumento capital;4675;24;No;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;45;>=7;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Educacion;1287;10;No;Terreno-Construccion;co-solicitante;1;1;Bueno
+0;Masculino;Soltero;43;1<=X<4;Propio;4;Si;Empleado;creditos pagados;0;Aumento capital;2515;18;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;4<=X<7;Propio;2;Si;Empleado;creditos existentes;0;Aumento capital;2745;18;>=10;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;54;Desempleado;Propio;4;Si;Empleado;creditos pagados;0;Educacion;672;6;<1;Casa;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;42;1<=X<4;Propio;1;Si;Empleado;sin creditos;0;Electrodomestico;3804;18;<1;Automovil;ninguno;1;1;Malo
+3;Masculino;Soltero;37;4<=X<7;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Educacion;1344;12;No;Casa;ninguno;2;2;Malo
+1;Masculino;Soltero;49;4<=X<7;Propio;3;Si;Empleado;creditos existentes;0;Educacion;1038;10;<1;Terreno-Construccion;co-solicitante;2;1;Bueno
+0;Masculino;Soltero;44;1<=X<4;Alquilada;2;No;Empleado;creditos existentes;0;Automovil;10127;36;5<=X<10;Ninguno;ninguno;1;1;Malo
+0;Masculino;divorciado/separado;38;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1543;12;>=10;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;29;4<=X<7;Alquilada;1;No;Empleado;creditos pagados;0;Automovil;4811;30;No;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Casado;33;<1;Propio;3;Si;Obrero/Agricultor;creditos pagados;0;Electrodomestico;727;12;1<=X<5;Ninguno;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;39;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Educacion;1237;10;<1;Casa;ninguno;1;1;Malo
+2;Masculino;Casado;42;1<=X<4;Alquilada;3;No;Obrero/Agricultor;creditos pagados;0;Educacion;1100;9;<1;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;40;Desempleado;Alquilada;3;Si;Obrero/Agricultor;creditos pagados;0;Otros;5381;36;No;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;25;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;5511;24;1<=X<5;Automovil;ninguno;1;1;Bueno
+3;Femenino;divorciada/separada;29;<1;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;3749;24;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Casado;35;4<=X<7;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Educacion;1300;12;<1;Automovil;ninguno;1;1;Malo
+3;Masculino;Soltero;29;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1494;12;No;Casa;ninguno;1;2;Bueno
+1;Masculino;Soltero;31;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;2746;18;<1;Automovil;ninguno;1;1;Malo
+1;Masculino;Soltero;38;1<=X<4;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1500;12;<1;Terreno-Construccion;garante;1;2;Bueno
+2;Femenino;divorciada/separada;48;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;4351;18;No;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;32;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Educacion;701;12;<1;Automovil;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;37;>=7;Propio;2;No;Empleado;creditos pagados con retraso;1;Aumento capital;3643;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Casado;28;Desempleado;Propio;2;No;Profesional/calificado;creditos existentes;0;Aumento capital;4249;30;<1;Automovil;ninguno;2;1;Malo
+1;Masculino;divorciado/separado;32;<1;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;1938;18;<1;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;34;4<=X<7;Alquilada;1;Si;Profesional/calificado;creditos pagados;0;Reparaciones;2910;18;<1;Ninguno;ninguno;1;1;Bueno
+1;Masculino;Soltero;38;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;2659;18;>=10;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;36;1<=X<4;Propio;3;No;Empleado;creditos existentes;0;Educacion;1028;18;<1;Casa;ninguno;2;1;Bueno
+1;Masculino;Soltero;39;4<=X<7;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;3398;18;<1;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;49;>=7;Alquilada;3;Si;Empleado;creditos existentes;0;Aumento capital;5801;12;No;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;49;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Educacion;1525;24;>=10;Automovil;ninguno;1;2;Bueno
+3;Masculino;Soltero;31;>=7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;4473;36;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;>=7;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;1068;12;<1;Automovil;ninguno;1;2;Bueno
+1;Masculino;Casado;65;Desempleado;Alquilada;4;Si;Profesional/calificado;creditos existentes;0;Automovil;6615;24;<1;Ninguno;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;39;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Educacion;1864;18;1<=X<5;Casa;ninguno;2;1;Malo
+2;Femenino;divorciada/separada;41;<1;Propio;2;No;Profesional/calificado;creditos pagados;0;Automovil;7408;36;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;36;1<=X<4;Alquilada;3;No;Empleado;creditos existentes;0;Automovil;11590;36;1<=X<5;Automovil;ninguno;2;1;Malo
+1;Masculino;Soltero;31;>=7;Alquilada;2;No;Empleado;sin creditos;0;Aumento capital;4110;24;<1;Ninguno;ninguno;2;2;Malo
+1;Masculino;divorciado/separado;44;1<=X<4;Alquilada;4;Si;Profesional/calificado;creditos existentes;0;Aumento capital;3384;24;<1;Maquinaria;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;33;<1;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;2101;18;<1;Terreno-Construccion;garante;1;1;Bueno
+1;Femenino;divorciada/separada;34;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Electrodomestico;1275;15;No;Automovil;ninguno;1;1;Malo
+1;Masculino;Soltero;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;4169;24;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;divorciado/separado;36;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1521;10;<1;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;34;<1;Alquilada;2;Si;Empleado;creditos existentes;0;Educacion;5743;18;<1;Ninguno;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;36;4<=X<7;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;3599;21;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Casado;35;<1;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;3213;18;5<=X<10;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;33;>=7;Propio;1;Si;Profesional/calificado;creditos pagados;0;Aumento capital;4439;18;<1;Casa;co-solicitante;1;1;Bueno
+3;Masculino;Soltero;37;<1;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;3949;18;<1;Terreno-Construccion;garante;1;2;Bueno
+0;Femenino;divorciada/separada;43;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1459;15;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;26;<1;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;882;12;<1;Casa;garante;2;1;Bueno
+2;Femenino;divorciada/separada;46;Desempleado;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;3758;24;5<=X<10;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;34;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados con retraso;1;Aumento capital;1743;10;1<=X<5;Casa;ninguno;2;1;Bueno
+2;Masculino;Soltero;37;>=7;Alquilada;3;No;Empleado;creditos existentes;0;Educacion;1136;9;>=10;Ninguno;ninguno;2;2;Malo
+0;Femenino;divorciada/separada;33;<1;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;1236;9;<1;Maquinaria;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;29;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;959;9;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;38;Desempleado;Propio;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;3229;18;No;Ninguno;ninguno;1;1;Bueno
+1;Masculino;Soltero;28;1<=X<4;Alquilada;2;Si;Empleado;sin creditos;0;Electrodomestico;6199;18;<1;Terreno-Construccion;ninguno;2;1;Malo
+0;Masculino;Soltero;46;>=7;Alquilada;3;Si;Empleado;creditos pagados;0;Educacion;727;10;5<=X<10;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;25;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Educacion;1246;24;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Soltero;49;>=7;Propio;3;Si;Empleado;creditos existentes;0;Electrodomestico;2331;12;No;Casa;co-solicitante;1;1;Bueno
+0;Masculino;Soltero;26;1<=X<4;Propio;2;Si;Profesional/calificado;creditos pagados con retraso;1;Electrodomestico;4463;36;<1;Automovil;ninguno;2;1;Malo
+0;Masculino;Casado;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;776;12;<1;Casa;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;23;4<=X<7;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;2406;30;<1;Maquinaria;ninguno;1;1;Malo
+2;Masculino;Soltero;41;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Educacion;1239;18;No;Ninguno;ninguno;1;1;Bueno
+3;Masculino;Soltero;37;>=7;Propio;3;No;Profesional/calificado;creditos pagados;0;Electrodomestico;3399;12;No;Automovil;ninguno;1;1;Bueno
+3;Femenino;divorciada/separada;36;1<=X<4;Propio;2;Si;Empleado;creditos pagados con retraso;2;Educacion;2247;12;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Casado;31;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;1766;6;<1;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Soltero;25;Desempleado;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;2473;18;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;36;4<=X<7;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;1542;12;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;27;4<=X<7;Propio;1;No;Empleado;creditos existentes;0;Reparaciones;3850;18;<1;Automovil;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;32;<1;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;3650;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;42;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;3446;36;<1;Automovil;ninguno;1;2;Malo
+2;Femenino;divorciada/separada;40;4<=X<7;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;3001;18;<1;Maquinaria;ninguno;1;1;Bueno
+0;Masculino;Soltero;36;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;3079;36;No;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;33;>=7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;6070;18;<1;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;33;<1;Alquilada;3;No;Empleado;creditos existentes;0;Aumento capital;2146;10;<1;Maquinaria;ninguno;2;1;Bueno
+0;Masculino;Casado;63;>=7;Alquilada;4;Si;Profesional/calificado;creditos existentes;0;Automovil;13756;48;No;Ninguno;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;50;>=7;Alquilada;4;Si;Profesional/calificado;creditos pagados;0;Otros;14782;36;1<=X<5;Ninguno;ninguno;2;1;Malo
+1;Femenino;divorciada/separada;37;4<=X<7;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;7685;36;<1;Automovil;garante;1;1;Malo
+0;Masculino;Casado;34;Desempleado;Propio;3;No;Empleado;creditos pagados con retraso;1;Electrodomestico;2320;18;<1;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;36;>=7;Alquilada;2;No;Empleado;creditos pagados con retraso;1;Electrodomestico;846;7;No;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Casado;57;>=7;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Automovil;14318;36;<1;Ninguno;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;52;1<=X<4;Propio;4;No;Empleado;creditos existentes;0;Educacion;1000;6;1<=X<5;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;39;4<=X<7;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;2212;20;No;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;38;Desempleado;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Automovil;12976;36;<1;Ninguno;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;35;4<=X<7;Alquilada;2;No;Empleado;creditos pagados;0;Educacion;1283;12;No;Terreno-Construccion;ninguno;1;1;Bueno
+3;Masculino;Soltero;26;<1;Propio;1;No;Empleado;creditos pagados;0;Educacion;1330;12;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;32;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados con retraso;2;Aumento capital;4272;24;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;44;1<=X<4;Propio;1;No;Empleado;creditos existentes;0;Electrodomestico;2238;18;<1;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;31;<1;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;1126;18;No;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;40;Desempleado;Propio;3;Si;Profesional/calificado;creditos existentes;0;Aumento capital;7374;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;27;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;2326;15;5<=X<10;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;27;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;1449;9;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Casado;30;1<=X<4;Propio;2;Si;Profesional/calificado;creditos pagados;0;Educacion;1820;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;48;<1;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;983;12;>=10;Maquinaria;ninguno;1;1;Bueno
+1;Masculino;Soltero;39;4<=X<7;Alquilada;3;Si;Profesional/calificado;creditos pagados;0;Reparaciones;3249;24;<1;Ninguno;ninguno;1;2;Bueno
+1;Femenino;divorciada/separada;31;4<=X<7;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;1957;12;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;31;Desempleado;Propio;3;No;Profesional/calificado;creditos existentes;0;Aumento capital;2406;18;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;32;4<=X<7;Alquilada;3;Si;Empleado;creditos pagados con retraso;2;Educacion;11760;36;1<=X<5;Ninguno;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;55;Desempleado;Alquilada;4;No;Profesional/calificado;creditos pagados;0;Aumento capital;2578;12;<1;Ninguno;ninguno;1;1;Bueno
+1;Masculino;Casado;46;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Aumento capital;2348;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;divorciado/separado;46;>=7;Alquilada;1;No;Empleado;creditos pagados;0;Automovil;12000;36;<1;Maquinaria;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;43;1<=X<4;Propio;1;No;Empleado;creditos existentes;0;Electrodomestico;1516;18;>=10;Casa;ninguno;2;1;Bueno
+0;Masculino;Casado;39;<1;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;1473;18;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Casado;28;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;1887;18;No;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;27;<1;Propio;2;Si;Empleado;creditos pagados con retraso;2;Aumento capital;8648;24;<1;Automovil;ninguno;2;1;Malo
+0;Masculino;Soltero;27;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados con retraso;1;Reparaciones;802;12;<1;Automovil;ninguno;2;1;Bueno
+2;Masculino;Soltero;43;>=7;Propio;4;No;Empleado;creditos pagados con retraso;1;Reparaciones;2899;18;No;Automovil;ninguno;1;2;Bueno
+2;Masculino;Casado;32;<1;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;2039;18;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;43;4<=X<7;Propio;4;Si;Empleado;creditos existentes;0;Educacion;2197;18;No;Automovil;ninguno;2;2;Bueno
+1;Masculino;Casado;27;<1;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1053;12;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;36;>=7;Propio;2;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;3235;24;5<=X<10;Automovil;ninguno;1;1;Bueno
+3;Masculino;Casado;39;4<=X<7;Propio;2;Si;Empleado;creditos existentes;0;Educacion;939;12;5<=X<10;Casa;ninguno;3;1;Malo
+2;Femenino;divorciada/separada;36;>=7;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;1967;18;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;35;4<=X<7;Propio;2;Si;Profesional/calificado;creditos existentes;0;Automovil;7253;36;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;42;Desempleado;Propio;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;2292;12;<1;Automovil;ninguno;2;1;Malo
+0;Masculino;Soltero;40;1<=X<4;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1597;10;5<=X<10;Ninguno;ninguno;1;2;Bueno
+1;Femenino;divorciada/separada;35;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1381;18;No;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;35;>=7;Propio;2;Si;Empleado;creditos existentes;0;Educacion;5842;36;<1;Terreno-Construccion;ninguno;2;2;Bueno
+1;Masculino;Soltero;33;<1;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Educacion;2579;18;<1;Casa;ninguno;1;2;Malo
+1;Femenino;divorciada/separada;32;1<=X<4;Alquilada;2;Si;Empleado;creditos pagados con retraso;2;Educacion;8471;18;No;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;41;4<=X<7;Propio;2;No;Profesional/calificado;creditos pagados;0;Aumento capital;2782;18;5<=X<10;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;33;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1042;12;No;Terreno-Construccion;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;45;4<=X<7;Alquilada;3;No;Empleado;creditos pagados;0;Educacion;3186;18;>=10;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;30;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;2028;18;No;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;47;4<=X<7;Propio;3;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;958;12;<1;Casa;ninguno;2;2;Bueno
+0;Masculino;Soltero;34;4<=X<7;Propio;3;No;Profesional/calificado;creditos pagados con retraso;1;Aumento capital;1591;12;1<=X<5;Casa;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;29;>=7;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;2762;12;No;Terreno-Construccion;ninguno;1;1;Malo
+2;Masculino;Casado;31;1<=X<4;Alquilada;3;Si;Empleado;creditos pagados;0;Educacion;2779;18;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;29;>=7;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;2743;18;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;46;1<=X<4;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;1149;18;>=10;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;32;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1313;9;<1;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;55;Desempleado;Alquilada;4;No;Empleado;creditos existentes;0;Reparaciones;1190;12;<1;Ninguno;ninguno;3;2;Malo
+0;Masculino;Casado;54;4<=X<7;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;3448;24;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;29;1<=X<4;Propio;2;Si;Profesional/calificado;creditos pagados;0;Automovil;11328;36;<1;Automovil;co-solicitante;2;1;Malo
+1;Masculino;Soltero;36;Desempleado;Alquilada;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;1872;10;<1;Ninguno;ninguno;3;1;Bueno
+0;Masculino;divorciado/separado;33;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Reparaciones;2058;24;<1;Casa;ninguno;2;1;Bueno
+1;Masculino;Soltero;27;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;2136;18;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Casado;29;1<=X<4;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;1484;12;No;Casa;ninguno;1;1;Malo
+0;Masculino;Casado;41;4<=X<7;Alquilada;3;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;660;6;5<=X<10;Maquinaria;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;42;>=7;Propio;3;Si;Empleado;creditos existentes;0;Electrodomestico;1287;16;>=10;Casa;ninguno;2;1;Bueno
+1;Masculino;Casado;65;Desempleado;Propio;4;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;3394;24;<1;Automovil;co-solicitante;2;1;Bueno
+3;Femenino;divorciada/separada;26;<1;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;609;10;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Soltero;39;>=7;Propio;3;Si;Profesional/calificado;creditos pagados;0;Educacion;1884;12;<1;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;30;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;1620;12;<1;Terreno-Construccion;co-solicitante;1;1;Bueno
+2;Masculino;Soltero;29;1<=X<4;Propio;2;Si;Empleado;creditos pagados con retraso;1;Otros;2629;20;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;41;>=7;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Educacion;719;12;<1;Automovil;ninguno;1;2;Malo
+2;Femenino;divorciada/separada;30;1<=X<4;Propio;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;5096;24;<1;Automovil;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;41;>=7;Alquilada;4;No;Empleado;creditos existentes;0;Educacion;1244;9;No;Terreno-Construccion;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;34;<1;Propio;3;Si;Empleado;creditos pagados;0;Reparaciones;1842;18;<1;Automovil;ninguno;1;1;Malo
+2;Masculino;Soltero;35;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;2576;12;<1;Casa;garante;1;1;Bueno
+3;Femenino;divorciada/separada;55;>=7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Aumento capital;1424;12;No;Casa;ninguno;1;1;Bueno
+2;Masculino;Casado;61;1<=X<4;Propio;3;No;Empleado;creditos pagados con retraso;1;Reparaciones;1512;15;>=10;Terreno-Construccion;ninguno;2;1;Malo
+0;Masculino;Soltero;30;1<=X<4;Propio;2;Si;Profesional/calificado;creditos existentes;0;Automovil;11054;36;No;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;29;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;600;6;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;34;>=7;Propio;2;No;Empleado;sin creditos;0;Aumento capital;2759;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;35;>=7;Propio;3;Si;Profesional/calificado;creditos pagados;0;Reparaciones;2670;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;31;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Aumento capital;4817;24;<1;Terreno-Construccion;co-solicitante;1;1;Malo
+0;Femenino;divorciada/separada;29;<1;Propio;1;Si;Profesional/calificado;creditos pagados;0;Educacion;2679;18;<1;Ninguno;ninguno;1;1;Bueno
+1;Masculino;Soltero;36;1<=X<4;Alquilada;2;No;Empleado;creditos existentes;0;Educacion;3905;18;<1;Maquinaria;ninguno;2;2;Bueno
+1;Masculino;Soltero;35;>=7;Alquilada;3;Si;Empleado;creditos pagados;0;Aumento capital;3386;24;<1;Ninguno;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;27;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;600;6;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;32;<1;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;4594;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;37;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;3620;24;<1;Terreno-Construccion;garante;1;2;Bueno
+1;Masculino;Soltero;36;<1;Propio;3;No;Empleado;creditos pagados;0;Educacion;1721;15;<1;Casa;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;34;<1;Alquilada;1;No;Profesional/calificado;creditos pagados;0;Aumento capital;3017;18;<1;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;38;>=7;Propio;3;No;Empleado;creditos pagados;0;Educacion;754;12;No;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;34;4<=X<7;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;1950;18;<1;Automovil;ninguno;2;1;Bueno
+1;Masculino;Casado;63;1<=X<4;Propio;4;Si;Empleado;creditos pagados;0;Reparaciones;2924;24;<1;Ninguno;garante;1;2;Bueno
+1;Femenino;divorciada/separada;29;<1;Alquilada;2;Si;Empleado;creditos pagados con retraso;1;Electrodomestico;1659;24;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;32;>=7;Propio;3;No;Empleado;creditos pagados con retraso;1;Electrodomestico;7238;30;No;Automovil;ninguno;2;2;Bueno
+0;Femenino;divorciada/separada;29;1<=X<4;Propio;2;Si;Empleado;creditos pagados con retraso;1;Aumento capital;2764;18;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;35;4<=X<7;Propio;3;Si;Obrero/Agricultor;creditos pagados con retraso;2;Aumento capital;4679;24;<1;Automovil;ninguno;2;1;Bueno
+2;Masculino;Casado;35;<1;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;3092;24;1<=X<5;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;32;<1;Propio;3;No;Empleado;creditos pagados;0;Educacion;600;6;<1;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;28;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Educacion;1000;9;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;36;Desempleado;Propio;3;Si;Profesional/calificado;creditos pagados;0;Educacion;1238;10;No;Terreno-Construccion;ninguno;1;2;Bueno
+2;Masculino;Casado;33;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1245;12;<1;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;28;<1;Alquilada;2;No;Empleado;sin creditos;0;Aumento capital;3114;18;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;33;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Reparaciones;2569;18;5<=X<10;Automovil;ninguno;1;1;Bueno
+3;Masculino;Soltero;25;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;5152;24;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;39;4<=X<7;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1037;12;1<=X<5;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;44;>=7;Propio;4;Si;Empleado;creditos existentes;0;Aumento capital;1478;15;<1;Automovil;ninguno;2;2;Bueno
+2;Femenino;divorciada/separada;33;1<=X<4;Propio;1;No;Empleado;creditos existentes;0;Electrodomestico;3573;12;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;26;<1;Propio;1;No;Empleado;creditos pagados;0;Reparaciones;1201;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;57;>=7;Alquilada;4;Si;Empleado;creditos pagados;0;Aumento capital;3622;30;>=10;Terreno-Construccion;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;48;4<=X<7;Propio;2;No;Empleado;creditos pagados con retraso;1;Aumento capital;960;12;>=10;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;44;1<=X<4;Propio;4;Si;Empleado;creditos existentes;0;Reparaciones;1163;12;5<=X<10;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;47;Desempleado;Propio;4;Si;Profesional/calificado;creditos pagados con retraso;1;Reparaciones;1209;6;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;52;1<=X<4;Propio;4;Si;Empleado;creditos pagados;0;Electrodomestico;3077;12;<1;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;62;>=7;Alquilada;4;Si;Empleado;creditos pagados;0;Reparaciones;3757;24;<1;Ninguno;co-solicitante;1;1;Bueno
+0;Masculino;Soltero;35;1<=X<4;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1418;12;1<=X<5;Maquinaria;ninguno;1;1;Bueno
+0;Masculino;Soltero;26;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Reparaciones;3518;18;<1;Terreno-Construccion;garante;1;1;Bueno
+0;Masculino;Soltero;26;>=7;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1934;12;<1;Ninguno;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;42;>=7;Alquilada;4;Si;Profesional/calificado;sin creditos;0;Aumento capital;8318;24;<1;Ninguno;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;37;1<=X<4;Propio;1;No;Empleado;creditos existentes;0;Electrodomestico;1237;10;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;38;>=7;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;600;6;No;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Soltero;39;1<=X<4;Alquilada;2;No;Obrero/Agricultor;creditos existentes;0;Educacion;2122;12;<1;Maquinaria;ninguno;2;2;Bueno
+1;Masculino;Casado;30;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;2996;24;No;Automovil;ninguno;1;1;Malo
+2;Masculino;Soltero;29;<1;Alquilada;1;Si;Profesional/calificado;creditos pagados;0;Aumento capital;9034;36;1<=X<5;Ninguno;co-solicitante;1;1;Malo
+0;Masculino;Soltero;40;4<=X<7;Propio;3;No;Empleado;creditos existentes;0;Aumento capital;1585;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Casado;32;>=7;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1301;12;<1;Casa;garante;1;1;Bueno
+3;Masculino;divorciado/separado;28;>=7;Propio;2;Si;Empleado;creditos existentes;0;Educacion;1323;10;1<=X<5;Automovil;ninguno;2;2;Bueno
+1;Femenino;divorciada/separada;27;<1;Propio;1;No;Empleado;creditos pagados;0;Reparaciones;3123;18;<1;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;42;>=7;Alquilada;4;No;Empleado;creditos pagados;0;Automovil;5493;36;<1;Ninguno;ninguno;1;2;Bueno
+3;Masculino;divorciado/separado;49;>=7;Propio;4;No;Empleado;creditos pagados;0;Electrodomestico;1126;9;1<=X<5;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;38;<1;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;1216;12;1<=X<5;Ninguno;ninguno;2;2;Malo
+1;Femenino;divorciada/separada;34;<1;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;1207;12;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;27;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1309;10;No;Terreno-Construccion;garante;1;1;Malo
+3;Masculino;Soltero;36;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Reparaciones;2360;15;5<=X<10;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;34;Desempleado;Propio;2;Si;Profesional/calificado;creditos pagados;0;Automovil;6850;24;1<=X<5;Terreno-Construccion;ninguno;1;2;Malo
+0;Masculino;Casado;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1413;12;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;45;>=7;Propio;2;Si;Profesional/calificado;creditos pagados;0;Automovil;8588;30;1<=X<5;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;26;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;759;12;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Soltero;32;1<=X<4;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Automovil;4686;24;<1;Ninguno;ninguno;1;1;Bueno
+3;Masculino;Soltero;26;4<=X<7;Alquilada;2;Si;Empleado;creditos pagados;0;Aumento capital;2687;15;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Casado;40;1<=X<4;Alquilada;3;No;Empleado;creditos pagados con retraso;1;Electrodomestico;585;12;<1;Maquinaria;co-solicitante;2;1;Bueno
+0;Masculino;Soltero;54;<1;Propio;1;No;Empleado;creditos pagados;0;Reparaciones;2255;24;No;Terreno-Construccion;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;37;4<=X<7;Propio;3;No;Empleado;creditos existentes;0;Educacion;609;6;<1;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;Soltero;40;<1;Propio;4;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;1361;6;<1;Casa;ninguno;1;2;Bueno
+0;Femenino;divorciada/separada;32;<1;Alquilada;3;Si;Empleado;creditos existentes;0;Aumento capital;7127;24;<1;Terreno-Construccion;ninguno;2;1;Malo
+1;Masculino;Soltero;43;>=7;Propio;3;Si;Empleado;creditos pagados;0;Reparaciones;1203;6;1<=X<5;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;36;>=7;Alquilada;3;No;Empleado;creditos existentes;0;Electrodomestico;700;6;No;Ninguno;ninguno;2;1;Bueno
+0;Masculino;Soltero;44;>=7;Alquilada;4;No;Empleado;creditos existentes;0;Reparaciones;5507;24;<1;Ninguno;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;34;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3190;18;<1;Casa;ninguno;1;1;Malo
+1;Masculino;Soltero;53;1<=X<4;Alquilada;4;No;Empleado;sin creditos;0;Aumento capital;7119;30;<1;Ninguno;ninguno;2;2;Malo
+0;Femenino;divorciada/separada;38;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;3488;24;1<=X<5;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;26;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1113;12;<1;Casa;garante;1;2;Bueno
+2;Masculino;Soltero;30;<1;Propio;3;No;Empleado;creditos pagados;0;Automovil;7966;30;<1;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;41;1<=X<4;Propio;3;No;Empleado;creditos existentes;0;Educacion;1532;15;1<=X<5;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;42;4<=X<7;Propio;1;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1503;10;<1;Casa;ninguno;2;2;Bueno
+1;Masculino;divorciado/separado;31;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Electrodomestico;2302;18;<1;Automovil;ninguno;1;1;Malo
+1;Masculino;Soltero;41;<1;Propio;3;Si;Obrero/Agricultor;creditos pagados;0;Educacion;662;6;<1;Casa;ninguno;1;2;Bueno
+2;Masculino;Soltero;32;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Educacion;2273;18;<1;Automovil;ninguno;2;2;Bueno
+2;Femenino;divorciada/separada;35;1<=X<4;Alquilada;3;Si;Empleado;creditos pagados;0;Reparaciones;2631;18;1<=X<5;Automovil;ninguno;2;1;Malo
+0;Masculino;Casado;41;1<=X<4;Alquilada;4;No;Empleado;creditos pagados con retraso;1;Reparaciones;1503;12;<1;Maquinaria;ninguno;1;1;Bueno
+0;Masculino;Casado;26;4<=X<7;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;1311;16;1<=X<5;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;25;<1;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3105;24;No;Automovil;ninguno;2;1;Bueno
+3;Masculino;divorciado/separado;33;<1;Alquilada;1;No;Empleado;creditos existentes;0;Educacion;2319;18;<1;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;63;Desempleado;Propio;3;Si;Profesional/calificado;creditos pagados;0;Educacion;1374;10;No;Terreno-Construccion;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;37;>=7;Propio;2;Si;Empleado;creditos existentes;0;Aumento capital;3612;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Soltero;42;>=7;Alquilada;4;No;Profesional/calificado;creditos pagados;0;Automovil;7763;36;<1;Ninguno;ninguno;1;1;Malo
+3;Femenino;divorciada/separada;45;<1;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;3049;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Casado;33;<1;Alquilada;1;No;Empleado;creditos pagados;0;Electrodomestico;1534;12;<1;Maquinaria;ninguno;1;1;Malo
+0;Masculino;Casado;60;>=7;Alquilada;4;Si;Empleado;creditos pagados con retraso;1;Reparaciones;2032;18;<1;Ninguno;ninguno;2;1;Bueno
+1;Masculino;Soltero;31;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;6350;24;No;Terreno-Construccion;ninguno;1;1;Malo
+3;Masculino;Soltero;34;1<=X<4;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;2864;18;<1;Casa;ninguno;1;2;Malo
+0;Masculino;Soltero;44;>=7;Propio;4;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1255;12;<1;Casa;ninguno;2;1;Bueno
+1;Masculino;Soltero;43;Desempleado;Alquilada;2;No;Empleado;creditos pagados con retraso;1;Educacion;1333;12;<1;Maquinaria;ninguno;2;2;Malo
+0;Femenino;divorciada/separada;37;1<=X<4;Propio;3;Si;Empleado;creditos existentes;0;Reparaciones;2022;18;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;32;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1552;12;<1;Automovil;ninguno;1;2;Bueno
+1;Femenino;divorciada/separada;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;626;6;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Soltero;35;4<=X<7;Alquilada;1;Si;Empleado;creditos existentes;0;Automovil;8858;36;No;Ninguno;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;33;4<=X<7;Propio;3;No;Empleado;creditos existentes;0;Reparaciones;996;10;No;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;45;>=7;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1750;12;5<=X<10;Terreno-Construccion;ninguno;1;2;Bueno
+1;Masculino;Casado;34;4<=X<7;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;6999;24;<1;Casa;garante;2;1;Malo
+2;Masculino;Soltero;27;<1;Propio;1;No;Empleado;creditos existentes;0;Educacion;1995;12;1<=X<5;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;67;4<=X<7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Educacion;1199;9;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;27;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1331;12;<1;Automovil;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;36;<1;Propio;3;No;Empleado;sin creditos;0;Reparaciones;2278;18;1<=X<5;Automovil;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;32;1<=X<4;Propio;3;Si;Empleado;sin creditos;0;Automovil;5003;24;No;Terreno-Construccion;ninguno;2;1;Malo
+1;Masculino;Soltero;27;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;3552;24;<1;Automovil;ninguno;1;1;Malo
+2;Masculino;Soltero;31;<1;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Aumento capital;1928;18;<1;Casa;ninguno;2;1;Malo
+1;Masculino;Soltero;49;>=7;Alquilada;4;Si;Empleado;creditos pagados;0;Educacion;2964;24;No;Ninguno;ninguno;1;2;Bueno
+1;Masculino;Soltero;24;4<=X<7;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1546;18;<1;Automovil;garante;1;1;Malo
+3;Femenino;divorciada/separada;29;<1;Propio;1;No;Empleado;creditos pagados con retraso;1;Electrodomestico;683;6;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;37;1<=X<4;Alquilada;2;Si;Empleado;creditos pagados;0;Automovil;12389;36;No;Ninguno;ninguno;1;1;Malo
+2;Masculino;Soltero;37;1<=X<4;Propio;2;Si;Profesional/calificado;creditos pagados con retraso;1;Aumento capital;4712;24;No;Terreno-Construccion;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;32;4<=X<7;Alquilada;2;Si;Empleado;creditos pagados con retraso;1;Electrodomestico;1553;12;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;divorciado/separado;36;4<=X<7;Propio;3;No;Empleado;creditos pagados;0;Educacion;1372;12;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;37;>=7;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;2578;18;>=10;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;41;4<=X<7;Propio;1;Si;Empleado;creditos pagados;0;Electrodomestico;3979;18;No;Automovil;ninguno;2;2;Bueno
+1;Femenino;divorciada/separada;31;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;6758;24;<1;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;33;<1;Alquilada;3;Si;Empleado;creditos pagados;0;Aumento capital;3234;18;<1;Maquinaria;ninguno;1;1;Malo
+0;Masculino;Soltero;38;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;5954;24;<1;Automovil;co-solicitante;1;1;Bueno
+0;Femenino;divorciada/separada;26;Desempleado;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Aumento capital;5433;24;No;Terreno-Construccion;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;32;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;806;6;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;27;>=7;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1082;9;<1;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;34;4<=X<7;Propio;3;No;Empleado;creditos existentes;0;Aumento capital;2788;15;<1;Automovil;co-solicitante;2;1;Bueno
+2;Femenino;divorciada/separada;27;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;2930;12;<1;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;33;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Educacion;1927;12;No;Automovil;ninguno;2;1;Bueno
+2;Masculino;divorciado/separado;27;<1;Propio;2;No;Empleado;creditos existentes;0;Reparaciones;2820;24;<1;Automovil;ninguno;2;1;Malo
+0;Masculino;Casado;27;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Educacion;937;10;<1;Automovil;ninguno;2;1;Bueno
+2;Masculino;Soltero;30;>=7;Propio;3;No;Empleado;creditos existentes;0;Reparaciones;1056;12;<1;Casa;garante;2;1;Malo
+2;Masculino;Soltero;49;<1;Propio;3;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;3124;12;<1;Casa;ninguno;2;2;Bueno
+0;Femenino;divorciada/separada;26;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;1388;9;<1;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;33;<1;Alquilada;1;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;2384;18;<1;Ninguno;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;52;>=7;Alquilada;4;Si;Profesional/calificado;creditos pagados;0;Aumento capital;2133;12;No;Ninguno;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;30;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;2039;18;<1;Maquinaria;ninguno;1;1;Malo
+1;Masculino;Soltero;36;1<=X<4;Alquilada;2;No;Empleado;creditos existentes;0;Reparaciones;2799;9;<1;Maquinaria;ninguno;2;2;Bueno
+1;Masculino;Soltero;21;1<=X<4;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1289;12;<1;Terreno-Construccion;garante;1;1;Bueno
+1;Masculino;Casado;47;1<=X<4;Propio;3;Si;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1217;18;<1;Casa;ninguno;1;1;Malo
+1;Masculino;Casado;60;>=7;Propio;3;No;Empleado;creditos existentes;0;Aumento capital;2246;12;<1;Terreno-Construccion;ninguno;2;1;Malo
+1;Femenino;divorciada/separada;58;4<=X<7;Propio;3;Si;Empleado;creditos existentes;0;Electrodomestico;600;12;<1;Casa;ninguno;4;1;Bueno
+2;Femenino;divorciada/separada;42;1<=X<4;Alquilada;4;Si;Empleado;creditos pagados con retraso;1;Electrodomestico;1965;18;No;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;38;>=7;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;1572;18;>=10;Casa;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;30;1<=X<4;Alquilada;3;Si;Empleado;creditos pagados;0;Reparaciones;2718;18;<1;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;40;>=7;Propio;3;Si;Profesional/calificado;creditos pagados;0;Otros;1358;16;No;Automovil;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;37;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;931;6;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;32;4<=X<7;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;1442;14;<1;Automovil;ninguno;2;1;Malo
+2;Masculino;Soltero;36;1<=X<4;Propio;3;Si;Obrero/Agricultor;sin creditos;0;Aumento capital;4241;24;<1;Casa;ninguno;3;1;Malo
+0;Masculino;Soltero;31;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Reparaciones;2775;18;<1;Terreno-Construccion;ninguno;2;1;Malo
+0;Masculino;Soltero;32;1<=X<4;Alquilada;2;No;Empleado;creditos pagados con retraso;1;Aumento capital;3863;24;<1;Ninguno;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;45;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;2329;18;<1;Casa;garante;1;1;Bueno
+2;Femenino;divorciada/separada;30;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;918;9;<1;Terreno-Construccion;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;34;4<=X<7;Alquilada;3;No;Empleado;creditos pagados;0;Educacion;1837;12;<1;Ninguno;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;28;1<=X<4;Propio;2;Si;Profesional/calificado;creditos pagados;0;Aumento capital;3349;24;<1;Automovil;ninguno;1;1;Malo
+3;Femenino;divorciada/separada;32;<1;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1275;10;<1;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Soltero;25;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;2828;24;5<=X<10;Casa;ninguno;1;1;Bueno
+0;Masculino;Casado;57;1<=X<4;Propio;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;4526;24;<1;Casa;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;50;1<=X<4;Alquilada;4;No;Empleado;creditos pagados;0;Electrodomestico;2671;18;1<=X<5;Ninguno;co-solicitante;1;1;Malo
+0;Masculino;Soltero;33;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;2051;18;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;45;>=7;Alquilada;4;No;Empleado;creditos pagados;0;Reparaciones;1300;15;No;Ninguno;ninguno;1;2;Bueno
+1;Femenino;divorciada/separada;44;Desempleado;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;741;12;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+3;Femenino;divorciada/separada;48;>=7;Alquilada;4;No;Empleado;creditos pagados;0;Reparaciones;1240;10;1<=X<5;Ninguno;ninguno;1;2;Malo
+1;Femenino;divorciada/separada;52;<1;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3357;18;>=10;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;32;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;3632;24;<1;Automovil;garante;1;1;Bueno
+0;Femenino;divorciada/separada;27;4<=X<7;Propio;1;No;Empleado;creditos pagados con retraso;1;Aumento capital;1808;18;<1;Casa;ninguno;1;1;Malo
+2;Masculino;Soltero;48;1<=X<4;Propio;2;Si;Profesional/calificado;sin creditos;0;Aumento capital;12204;36;No;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;27;1<=X<4;Alquilada;2;No;Profesional/calificado;creditos pagados con retraso;2;Electrodomestico;9157;48;No;Ninguno;ninguno;1;1;Bueno
+1;Masculino;Soltero;37;1<=X<4;Alquilada;3;No;Empleado;creditos existentes;0;Educacion;3676;24;<1;Maquinaria;ninguno;3;2;Bueno
+2;Femenino;divorciada/separada;31;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;3441;24;1<=X<5;Automovil;co-solicitante;1;1;Malo
+0;Masculino;divorciado/separado;49;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;640;6;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;27;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;3652;24;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;32;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Reparaciones;1530;18;<1;Terreno-Construccion;ninguno;2;1;Malo
+0;Masculino;divorciado/separado;38;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;3914;24;No;Casa;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;32;<1;Alquilada;1;No;Empleado;creditos pagados;0;Aumento capital;1858;18;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Casado;65;1<=X<4;Alquilada;4;No;Empleado;creditos pagados;0;Electrodomestico;2600;18;<1;Ninguno;ninguno;2;1;Malo
+0;Masculino;Soltero;35;>=7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1979;15;No;Automovil;ninguno;1;1;Bueno
+3;Masculino;Soltero;41;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;2116;12;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;32;4<=X<7;Propio;3;No;Empleado;creditos pagados;0;Educacion;1437;12;1<=X<5;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;36;1<=X<4;Propio;3;Si;Empleado;creditos existentes;0;Aumento capital;4042;24;5<=X<10;Casa;ninguno;2;1;Bueno
+0;Masculino;Casado;64;>=7;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Educacion;3832;18;No;Casa;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3660;24;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;44;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;1553;18;<1;Automovil;ninguno;1;1;Malo
+2;Masculino;Soltero;25;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1444;15;No;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;29;<1;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;1980;9;<1;Automovil;co-solicitante;2;1;Malo
+2;Femenino;divorciada/separada;25;<1;Propio;2;Si;Empleado;creditos pagados;0;Educacion;1355;12;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;47;>=7;Propio;4;Si;Empleado;creditos pagados;0;Educacion;1393;12;<1;Terreno-Construccion;ninguno;3;2;Bueno
+0;Femenino;divorciada/separada;38;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1376;18;5<=X<10;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;31;4<=X<7;Propio;2;Si;Empleado;creditos pagados con retraso;3;Electrodomestico;15653;48;<1;Automovil;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;34;<1;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;1493;12;<1;Automovil;ninguno;1;2;Bueno
+1;Masculino;Soltero;26;4<=X<7;Propio;2;Si;Empleado;creditos pagados con retraso;2;Electrodomestico;4370;24;<1;Terreno-Construccion;ninguno;2;2;Malo
+1;Femenino;divorciada/separada;27;Desempleado;Propio;1;No;Empleado;creditos pagados;0;Educacion;750;10;<1;Casa;ninguno;1;1;Malo
+2;Masculino;Soltero;38;>=7;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1308;12;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;40;1<=X<4;Propio;2;Si;Profesional/calificado;creditos pagados;0;Educacion;4623;18;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Casado;33;4<=X<7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;1851;18;<1;Automovil;garante;2;1;Bueno
+1;Masculino;Casado;32;4<=X<7;Propio;1;Si;Profesional/calificado;creditos existentes;0;Electrodomestico;1880;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;27;<1;Alquilada;2;Si;Empleado;creditos pagados con retraso;2;Aumento capital;7980;36;No;Automovil;ninguno;2;1;Malo
+1;Masculino;divorciado/separado;32;1<=X<4;Propio;2;No;Empleado;sin creditos;0;Aumento capital;4583;30;<1;Casa;garante;2;1;Bueno
+0;Femenino;divorciada/separada;36;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;1386;12;5<=X<10;Terreno-Construccion;ninguno;1;1;Malo
+3;Masculino;Soltero;38;4<=X<7;Alquilada;3;No;Empleado;creditos pagados;0;Reparaciones;947;12;<1;Ninguno;ninguno;1;2;Malo
+1;Masculino;Soltero;40;1<=X<4;Alquilada;4;No;Obrero/Agricultor;creditos pagados;0;Educacion;684;8;<1;Automovil;ninguno;1;2;Malo
+1;Masculino;Soltero;50;4<=X<7;Alquilada;1;Si;Profesional/calificado;creditos pagados;0;Educacion;7476;48;<1;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;37;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1922;12;<1;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;45;>=7;Propio;1;No;Empleado;creditos pagados;0;Educacion;2303;18;<1;Casa;co-solicitante;1;1;Malo
+2;Masculino;Soltero;42;>=7;Propio;4;Si;Profesional/calificado;creditos pagados con retraso;3;Automovil;8086;36;1<=X<5;Automovil;ninguno;4;1;Malo
+0;Masculino;Soltero;35;4<=X<7;Propio;3;Si;Empleado;creditos existentes;0;Educacion;2346;24;<1;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;32;Desempleado;Alquilada;3;No;Empleado;creditos pagados;0;Educacion;3973;14;<1;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;41;>=7;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;888;12;<1;Automovil;ninguno;1;2;Malo
+0;Masculino;Soltero;37;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Aumento capital;10222;48;No;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;28;1<=X<4;Propio;1;No;Empleado;sin creditos;0;Aumento capital;4221;30;<1;Automovil;ninguno;2;1;Bueno
+2;Masculino;Soltero;41;>=7;Propio;1;Si;Empleado;creditos existentes;0;Aumento capital;6361;18;<1;Ninguno;ninguno;1;1;Bueno
+3;Masculino;Casado;29;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Electrodomestico;1297;12;<1;Maquinaria;ninguno;1;1;Bueno
+1;Masculino;Casado;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Educacion;900;12;No;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;50;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;2241;18;<1;Casa;ninguno;2;1;Bueno
+2;Masculino;Soltero;35;Desempleado;Propio;1;Si;Profesional/calificado;creditos pagados con retraso;1;Aumento capital;1050;6;<1;Terreno-Construccion;ninguno;2;1;Bueno
+3;Femenino;divorciada/separada;50;1<=X<4;Propio;4;No;Empleado;creditos existentes;0;Educacion;1047;6;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;27;Desempleado;Propio;2;Si;Profesional/calificado;creditos existentes;0;Otros;6314;24;<1;Ninguno;co-solicitante;2;1;Bueno
+2;Masculino;Soltero;41;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;3496;24;>=10;Automovil;ninguno;1;2;Bueno
+0;Femenino;divorciada/separada;27;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;3609;30;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;43;>=7;Alquilada;4;Si;Empleado;creditos existentes;0;Aumento capital;4843;18;<1;Terreno-Construccion;co-solicitante;2;1;Malo
+3;Masculino;Soltero;47;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;3017;24;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;27;1<=X<4;Propio;2;Si;Obrero/Agricultor;creditos existentes;0;Aumento capital;4139;24;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;31;4<=X<7;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;5742;36;1<=X<5;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;42;>=7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Automovil;10366;48;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Casado;45;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Educacion;2080;12;5<=X<10;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;41;<1;Propio;2;No;Obrero/Agricultor;creditos pagados con retraso;1;Aumento capital;2580;18;5<=X<10;Casa;ninguno;1;2;Malo
+0;Femenino;divorciada/separada;31;4<=X<7;Alquilada;4;Si;Profesional/calificado;creditos existentes;0;Electrodomestico;4530;30;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;33;>=7;Propio;3;Si;Empleado;creditos existentes;0;Aumento capital;5150;24;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Casado;44;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;5595;24;1<=X<5;Automovil;ninguno;1;1;Malo
+1;Masculino;Casado;54;>=7;Alquilada;4;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;2384;18;<1;Maquinaria;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;26;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1453;18;<1;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;56;<1;Propio;2;No;Empleado;creditos pagados;0;Educacion;1538;12;<1;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;37;1<=X<4;Alquilada;3;Si;Empleado;creditos pagados;0;Electrodomestico;2279;12;No;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Casado;33;1<=X<4;Propio;3;No;Empleado;creditos pagados con retraso;1;Electrodomestico;1478;15;<1;Casa;ninguno;2;1;Bueno
+0;Masculino;Casado;47;<1;Alquilada;3;Si;Empleado;creditos existentes;0;Electrodomestico;5103;24;<1;Ninguno;ninguno;3;1;Bueno
+2;Masculino;Soltero;31;4<=X<7;Propio;3;Si;Obrero/Agricultor;creditos pagados con retraso;2;Aumento capital;9857;36;1<=X<5;Terreno-Construccion;ninguno;2;2;Bueno
+0;Masculino;Soltero;34;1<=X<4;Alquilada;3;Si;Empleado;creditos pagados;0;Automovil;6527;24;No;Ninguno;ninguno;1;2;Bueno
+3;Masculino;Soltero;31;4<=X<7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;1347;10;No;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;30;>=7;Alquilada;3;No;Empleado;creditos pagados con retraso;1;Reparaciones;2862;24;1<=X<5;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;35;>=7;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;2753;18;1<=X<5;Automovil;co-solicitante;1;1;Bueno
+1;Masculino;Soltero;37;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Educacion;3651;12;>=10;Terreno-Construccion;ninguno;1;2;Bueno
+1;Masculino;divorciado/separado;27;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;975;12;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;45;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;2631;18;1<=X<5;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;29;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;2896;24;1<=X<5;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;44;<1;Propio;3;No;Obrero/Agricultor;creditos existentes;0;Aumento capital;4716;24;No;Casa;ninguno;2;2;Bueno
+0;Masculino;Soltero;28;4<=X<7;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;2284;24;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;50;1<=X<4;Alquilada;4;No;Empleado;creditos pagados;0;Educacion;1236;6;5<=X<10;Terreno-Construccion;ninguno;1;1;Bueno
+2;Masculino;Soltero;29;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1103;12;<1;Casa;garante;2;1;Bueno
+0;Femenino;divorciada/separada;38;Desempleado;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;926;12;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;26;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1800;18;<1;Automovil;ninguno;2;1;Bueno
+3;Masculino;Soltero;40;>=7;Alquilada;4;Si;Profesional/calificado;creditos pagados;0;Educacion;1905;15;<1;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;39;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;1123;12;5<=X<10;Automovil;ninguno;1;1;Malo
+1;Masculino;Soltero;46;>=7;Alquilada;4;Si;Empleado;creditos existentes;0;Automovil;6331;36;<1;Ninguno;ninguno;2;1;Malo
+3;Femenino;divorciada/separada;47;>=7;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;1377;18;1<=X<5;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;41;>=7;Propio;2;No;Empleado;creditos pagados con retraso;1;Aumento capital;2503;18;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;32;<1;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;2528;18;<1;Terreno-Construccion;ninguno;1;2;Bueno
+0;Femenino;divorciada/separada;35;>=7;Alquilada;3;No;Empleado;creditos pagados;0;Automovil;5324;24;5<=X<10;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;34;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Automovil;6560;30;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;34;<1;Alquilada;3;No;Empleado;sin creditos;0;Aumento capital;2969;12;<1;Terreno-Construccion;ninguno;2;1;Malo
+2;Femenino;divorciada/separada;34;>=7;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;1206;9;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;37;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;2118;9;<1;Casa;ninguno;1;2;Bueno
+0;Masculino;Soltero;32;>=7;Propio;3;Si;Profesional/calificado;creditos existentes;0;Electrodomestico;629;6;5<=X<10;Terreno-Construccion;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;35;>=7;Alquilada;3;No;Empleado;creditos pagados;0;Educacion;1198;6;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;46;>=7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Educacion;2476;21;No;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;25;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1138;9;<1;Casa;ninguno;2;1;Bueno
+2;Masculino;Soltero;31;4<=X<7;Propio;2;Si;Profesional/calificado;creditos pagados;0;Automovil;14027;48;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;53;>=7;Propio;4;No;Empleado;creditos existentes;0;Automovil;7596;30;No;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;40;>=7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;3077;24;No;Automovil;ninguno;2;2;Bueno
+0;Masculino;Soltero;32;1<=X<4;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;1505;18;<1;Ninguno;ninguno;1;1;Bueno
+3;Masculino;Soltero;31;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;3148;24;No;Automovil;ninguno;2;1;Bueno
+2;Masculino;Casado;34;>=7;Propio;2;Si;Empleado;sin creditos;0;Automovil;6148;20;1<=X<5;Automovil;ninguno;2;1;Bueno
+3;Masculino;Soltero;34;<1;Propio;2;Si;Profesional/calificado;sin creditos;0;Electrodomestico;1337;9;<1;Automovil;ninguno;2;1;Malo
+2;Femenino;Soltera;26;<1;Alquilada;2;No;Empleado;creditos pagados;0;Educacion;600;6;<1;Terreno-Construccion;ninguno;1;2;Malo
+1;Femenino;divorciada/separada;24;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Educacion;1228;12;<1;Casa;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;66;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;790;9;5<=X<10;Casa;ninguno;1;1;Bueno
+0;Femenino;Soltera;27;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Reparaciones;2570;27;<1;Maquinaria;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;41;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;1200;6;>=10;Casa;ninguno;2;1;Bueno
+0;Masculino;Casado;47;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1316;15;5<=X<10;Terreno-Construccion;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;30;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Electrodomestico;1882;18;<1;Automovil;ninguno;2;1;Malo
+2;Femenino;divorciada/separada;59;>=7;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;6416;48;<1;Ninguno;ninguno;1;1;Malo
+3;Masculino;divorciado/separado;36;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Aumento capital;1275;18;>=10;Casa;ninguno;2;1;Bueno
+2;Masculino;Soltero;33;<1;Propio;2;No;Empleado;creditos pagados con retraso;1;Electrodomestico;6403;24;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;29;1<=X<4;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1987;24;<1;Maquinaria;ninguno;1;2;Malo
+2;Femenino;divorciada/separada;44;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;760;8;<1;Casa;garante;1;1;Bueno
+0;Femenino;divorciada/separada;51;1<=X<4;Alquilada;4;Si;Empleado;creditos pagados;0;Electrodomestico;2603;24;>=10;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;37;4<=X<7;Propio;1;No;Empleado;creditos existentes;0;Reparaciones;3380;18;<1;Casa;ninguno;1;2;Bueno
+2;Femenino;divorciada/separada;29;<1;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3990;24;No;Ninguno;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;33;1<=X<4;Alquilada;2;No;Profesional/calificado;creditos pagados;0;Automovil;11560;36;<1;Automovil;ninguno;2;1;Malo
+1;Masculino;Soltero;35;1<=X<4;Propio;2;Si;Obrero/Agricultor;creditos pagados;0;Aumento capital;4380;18;1<=X<5;Automovil;ninguno;1;2;Bueno
+0;Masculino;Soltero;45;4<=X<7;Propio;3;Si;Profesional/calificado;creditos existentes;0;Automovil;6761;24;<1;Ninguno;ninguno;2;2;Bueno
+2;Femenino;divorciada/separada;28;1<=X<4;Alquilada;2;No;Empleado;sin creditos;0;Aumento capital;4280;24;1<=X<5;Automovil;ninguno;2;1;Malo
+1;Masculino;Soltero;32;4<=X<7;Propio;3;No;Empleado;creditos pagados;0;Educacion;2325;18;1<=X<5;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;28;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1048;10;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;41;>=7;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;3160;21;No;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Soltero;24;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;2483;24;5<=X<10;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;30;4<=X<7;Propio;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;14179;36;No;Terreno-Construccion;ninguno;2;1;Bueno
+1;Masculino;Soltero;28;<1;Propio;1;No;Obrero/Agricultor;creditos existentes;0;Aumento capital;1797;13;<1;Terreno-Construccion;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;33;Desempleado;Alquilada;2;No;Empleado;creditos pagados;0;Electrodomestico;2511;15;<1;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;37;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1274;12;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Soltero;26;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Automovil;5248;21;No;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;33;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;3029;15;<1;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;49;>=7;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;600;6;<1;Terreno-Construccion;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;43;<1;Propio;2;No;Empleado;creditos pagados;0;Educacion;976;12;<1;Automovil;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;43;4<=X<7;Alquilada;4;No;Empleado;creditos pagados;0;Aumento capital;841;12;1<=X<5;Maquinaria;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;35;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;5771;30;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Casado;55;>=7;Alquilada;4;No;Empleado;creditos pagados con retraso;1;Reparaciones;1555;12;>=10;Ninguno;ninguno;2;2;Malo
+1;Femenino;divorciada/separada;32;4<=X<7;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;1285;24;No;Ninguno;ninguno;1;1;Malo
+3;Masculino;Casado;55;1<=X<4;Propio;1;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1299;6;<1;Casa;ninguno;3;2;Bueno
+3;Masculino;Soltero;39;1<=X<4;Alquilada;2;Si;Empleado;creditos existentes;0;Electrodomestico;1271;15;No;Ninguno;ninguno;2;1;Malo
+0;Masculino;Soltero;31;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;1393;24;<1;Casa;garante;1;1;Bueno
+1;Masculino;Soltero;35;>=7;Propio;3;No;Empleado;creditos existentes;0;Educacion;691;10;<1;Terreno-Construccion;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;59;>=7;Propio;4;Si;Empleado;creditos existentes;0;Automovil;5045;15;No;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;34;1<=X<4;Alquilada;2;No;Empleado;creditos existentes;0;Aumento capital;2124;18;<1;Maquinaria;ninguno;2;1;Malo
+1;Masculino;Soltero;36;1<=X<4;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;2214;12;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;34;>=7;Alquilada;2;Si;Profesional/calificado;creditos existentes;0;Automovil;12680;30;No;Ninguno;ninguno;1;1;Malo
+0;Masculino;Casado;28;4<=X<7;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;2463;18;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Casado;40;>=7;Propio;3;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1155;12;<1;Casa;garante;2;1;Bueno
+1;Masculino;divorciado/separado;31;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;3108;30;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;31;<1;Alquilada;2;No;Empleado;creditos pagados;0;Electrodomestico;2901;10;No;Maquinaria;ninguno;1;1;Bueno
+2;Masculino;Soltero;28;>=7;Alquilada;2;Si;Empleado;creditos existentes;0;Aumento capital;3617;18;<1;Automovil;ninguno;3;1;Bueno
+0;Masculino;Casado;61;>=7;Propio;4;Si;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1655;12;<1;Casa;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;36;>=7;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;2812;24;No;Maquinaria;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;35;1<=X<4;Propio;2;Si;Profesional/calificado;creditos existentes;0;Educacion;8065;36;<1;Ninguno;ninguno;2;1;Malo
+0;Masculino;Soltero;36;>=7;Propio;3;Si;Profesional/calificado;creditos existentes;0;Electrodomestico;3275;21;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;52;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;2223;24;1<=X<5;Terreno-Construccion;ninguno;2;1;Bueno
+3;Masculino;Casado;66;Desempleado;Alquilada;4;No;Obrero/Agricultor;creditos existentes;0;Educacion;1480;12;5<=X<10;Ninguno;ninguno;3;1;Bueno
+1;Femenino;divorciada/separada;35;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Reparaciones;1371;24;No;Maquinaria;ninguno;1;1;Malo
+0;Masculino;Soltero;37;4<=X<7;Propio;3;Si;Empleado;creditos existentes;0;Reparaciones;3535;24;<1;Automovil;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;35;4<=X<7;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;3509;24;<1;Casa;garante;1;1;Bueno
+0;Masculino;Soltero;38;>=7;Propio;2;Si;Profesional/calificado;creditos existentes;0;Automovil;5711;36;>=10;Automovil;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;55;Desempleado;Propio;4;Si;Empleado;creditos pagados;0;Reparaciones;3872;18;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;25;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Electrodomestico;4933;24;<1;Casa;garante;2;1;Malo
+0;Masculino;Soltero;42;>=7;Propio;4;Si;Empleado;creditos existentes;0;Reparaciones;1940;18;>=10;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;31;1<=X<4;Propio;2;Si;Obrero/Agricultor;sin creditos;0;Educacion;1410;12;<1;Casa;ninguno;1;1;Bueno
+2;Femenino;Soltera;28;<1;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;836;12;<1;Terreno-Construccion;ninguno;1;1;Malo
+2;Masculino;divorciado/separado;60;Desempleado;Propio;4;Si;Profesional/calificado;creditos pagados;0;Automovil;6468;20;No;Casa;ninguno;1;1;Bueno
+2;Masculino;Soltero;35;1<=X<4;Propio;2;Si;Obrero/Agricultor;creditos pagados;0;Aumento capital;1941;18;>=10;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;40;>=7;Propio;4;No;Empleado;creditos pagados;0;Electrodomestico;2675;22;5<=X<10;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;38;>=7;Propio;3;Si;Empleado;creditos existentes;0;Reparaciones;2751;18;No;Automovil;ninguno;2;2;Bueno
+2;Masculino;Casado;50;>=7;Alquilada;4;No;Empleado;creditos pagados con retraso;1;Educacion;6224;24;<1;Ninguno;ninguno;1;1;Malo
+1;Masculino;Soltero;27;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Educacion;5998;30;<1;Ninguno;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;39;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1188;12;<1;Terreno-Construccion;ninguno;1;2;Malo
+0;Masculino;Soltero;41;>=7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Automovil;6313;24;No;Automovil;ninguno;1;2;Bueno
+0;Masculino;Casado;27;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;1221;10;No;Terreno-Construccion;ninguno;2;1;Bueno
+3;Masculino;divorciado/separado;51;>=7;Alquilada;4;No;Empleado;creditos pagados;0;Aumento capital;2892;18;<1;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;32;>=7;Alquilada;3;Si;Empleado;creditos pagados;0;Aumento capital;3062;24;5<=X<10;Ninguno;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;35;<1;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;2301;12;1<=X<5;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Casado;51;>=7;Alquilada;3;Si;Empleado;creditos pagados;0;Automovil;7511;18;No;Terreno-Construccion;ninguno;1;2;Malo
+0;Femenino;divorciada/separada;32;<1;Alquilada;3;No;Empleado;creditos existentes;0;Aumento capital;1258;12;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Casado;54;>=7;Propio;4;Si;Empleado;creditos pagados con retraso;1;Educacion;1200;12;No;Automovil;ninguno;2;1;Bueno
+2;Masculino;Soltero;35;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Educacion;1549;9;No;Casa;ninguno;1;1;Bueno
+0;Masculino;Soltero;54;>=7;Alquilada;4;No;Empleado;creditos existentes;0;Educacion;1597;24;<1;Ninguno;ninguno;2;2;Bueno
+2;Femenino;divorciada/separada;48;>=7;Alquilada;4;Si;Empleado;creditos existentes;0;Electrodomestico;1795;18;<1;Maquinaria;garante;2;1;Bueno
+1;Femenino;divorciada/separada;34;>=7;Propio;3;No;Empleado;creditos existentes;0;Aumento capital;4272;24;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;35;>=7;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;976;12;No;Automovil;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;42;Desempleado;Alquilada;2;No;Empleado;creditos pagados;0;Automovil;7472;24;No;Maquinaria;ninguno;1;1;Bueno
+1;Masculino;Soltero;34;4<=X<7;Propio;1;Si;Empleado;creditos pagados;0;Automovil;9271;36;<1;Automovil;ninguno;1;1;Malo
+2;Masculino;Casado;26;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;590;6;<1;Casa;ninguno;1;1;Bueno
+0;Masculino;Casado;56;>=7;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;930;12;No;Casa;ninguno;4;1;Bueno
+2;Masculino;Casado;55;Desempleado;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Automovil;9283;42;<1;Ninguno;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;36;<1;Alquilada;1;No;Empleado;sin creditos;0;Electrodomestico;1778;15;<1;Maquinaria;ninguno;2;1;Malo
+2;Masculino;Casado;28;<1;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;907;8;<1;Casa;ninguno;1;1;Bueno
+2;Masculino;Casado;28;4<=X<7;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;600;6;<1;Casa;garante;1;1;Bueno
+1;Masculino;Soltero;29;4<=X<7;Propio;2;Si;Empleado;creditos existentes;0;Automovil;9629;36;<1;Automovil;ninguno;2;1;Malo
+1;Masculino;Soltero;44;1<=X<4;Propio;4;No;Empleado;creditos pagados;0;Electrodomestico;3051;24;<1;Automovil;ninguno;1;1;Malo
+1;Masculino;Soltero;46;4<=X<7;Alquilada;4;No;Empleado;creditos pagados;0;Reparaciones;3931;24;<1;Ninguno;ninguno;1;2;Malo
+2;Femenino;divorciada/separada;54;1<=X<4;Alquilada;2;No;Empleado;creditos pagados con retraso;2;Automovil;7432;36;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;divorciado/separado;62;1<=X<4;Propio;4;No;Empleado;creditos pagados;0;Electrodomestico;1338;6;5<=X<10;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;34;4<=X<7;Alquilada;2;Si;Empleado;creditos existentes;0;Electrodomestico;1554;6;<1;Automovil;ninguno;2;1;Bueno
+1;Masculino;divorciado/separado;43;Desempleado;Propio;3;No;Profesional/calificado;creditos pagados;0;Otros;15857;36;<1;Automovil;co-solicitante;1;1;Bueno
+1;Masculino;Casado;26;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;1345;12;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Casado;27;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Reparaciones;1101;12;<1;Casa;ninguno;2;1;Bueno
+3;Masculino;Casado;26;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;3016;24;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;41;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;2712;24;<1;Terreno-Construccion;ninguno;1;2;Malo
+1;Masculino;Soltero;47;>=7;Propio;4;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;731;8;<1;Casa;ninguno;2;1;Bueno
+0;Masculino;divorciado/separado;35;<1;Propio;2;Si;Profesional/calificado;creditos existentes;0;Aumento capital;3780;18;<1;Automovil;ninguno;2;1;Bueno
+1;Masculino;Casado;30;>=7;Propio;3;Si;Empleado;creditos existentes;0;Reparaciones;1602;18;<1;Automovil;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;33;>=7;Alquilada;2;Si;Empleado;creditos existentes;0;Reparaciones;3966;18;<1;Maquinaria;ninguno;3;1;Malo
+0;Masculino;Soltero;36;1<=X<4;Propio;2;No;Empleado;sin creditos;0;Aumento capital;4165;18;<1;Automovil;ninguno;2;2;Malo
+1;Masculino;Soltero;47;>=7;Alquilada;4;No;Empleado;creditos pagados;0;Automovil;8335;36;No;Ninguno;ninguno;1;1;Malo
+2;Masculino;Soltero;38;1<=X<4;Alquilada;2;Si;Empleado;creditos pagados con retraso;2;Aumento capital;6681;48;No;Ninguno;ninguno;1;2;Bueno
+0;Masculino;Soltero;44;1<=X<4;Propio;2;Si;Empleado;creditos pagados con retraso;1;Aumento capital;2375;24;5<=X<10;Automovil;ninguno;2;2;Bueno
+1;Femenino;divorciada/separada;23;<1;Alquilada;2;Si;Empleado;creditos pagados;0;Reparaciones;1216;18;<1;Automovil;ninguno;1;1;Malo
+1;Masculino;Soltero;34;>=7;Alquilada;3;No;Empleado;sin creditos;0;Aumento capital;11816;45;<1;Automovil;ninguno;2;1;Malo
+2;Femenino;divorciada/separada;42;>=7;Propio;3;Si;Empleado;creditos pagados;0;Electrodomestico;5084;24;No;Automovil;ninguno;1;1;Bueno
+3;Femenino;divorciada/separada;25;<1;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2327;15;<1;Casa;ninguno;1;1;Malo
+1;Masculino;Soltero;48;1<=X<4;Propio;4;No;Empleado;sin creditos;0;Reparaciones;1082;12;<1;Automovil;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;41;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;886;12;No;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;33;<1;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;601;4;<1;Maquinaria;ninguno;1;2;Bueno
+1;Masculino;Casado;63;>=7;Propio;4;Si;Empleado;creditos existentes;0;Reparaciones;2957;24;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Casado;46;>=7;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;2611;24;<1;Casa;co-solicitante;2;1;Bueno
+1;Masculino;Soltero;29;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;5179;36;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;28;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados con retraso;1;Reparaciones;2993;21;<1;Casa;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;33;<1;Propio;3;No;Empleado;creditos pagados;0;Reparaciones;1943;18;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Casado;50;4<=X<7;Propio;4;Si;Empleado;creditos pagados;0;Aumento capital;1559;18;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;47;>=7;Propio;4;Si;Empleado;creditos pagados;0;Aumento capital;3422;18;<1;Terreno-Construccion;ninguno;3;2;Bueno
+2;Masculino;Soltero;35;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Aumento capital;3976;21;No;Automovil;ninguno;1;1;Bueno
+0;Masculino;Casado;62;1<=X<4;Alquilada;4;No;Empleado;creditos pagados;0;Reparaciones;6761;18;No;Automovil;ninguno;2;1;Malo
+0;Masculino;Casado;28;<1;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;1249;24;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;Casado;59;4<=X<7;Propio;4;No;Empleado;creditos pagados;0;Electrodomestico;1364;9;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;Casado;57;>=7;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;709;12;<1;Casa;ninguno;1;1;Malo
+1;Masculino;Casado;33;1<=X<4;Alquilada;2;No;Empleado;creditos existentes;0;Reparaciones;2235;20;<1;Terreno-Construccion;garante;2;1;Malo
+0;Masculino;Soltero;43;4<=X<7;Propio;4;Si;Empleado;creditos existentes;0;Reparaciones;4042;24;No;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;35;1<=X<4;Alquilada;3;Si;Empleado;creditos existentes;0;Electrodomestico;1471;15;<1;Ninguno;ninguno;2;1;Bueno
+1;Masculino;Soltero;32;4<=X<7;Alquilada;3;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1442;18;<1;Ninguno;ninguno;2;2;Malo
+0;Masculino;Soltero;45;>=7;Propio;2;Si;Empleado;creditos pagados con retraso;2;Reparaciones;10875;36;<1;Automovil;ninguno;2;2;Bueno
+0;Masculino;Casado;33;<1;Propio;3;Si;Empleado;creditos pagados;0;Reparaciones;1474;24;1<=X<5;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;40;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Educacion;894;10;No;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;28;1<=X<4;Alquilada;2;Si;Empleado;creditos existentes;0;Aumento capital;3343;15;<1;Ninguno;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;29;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Reparaciones;3959;15;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;26;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Reparaciones;3577;9;1<=X<5;Maquinaria;garante;1;2;Bueno
+0;Masculino;Soltero;27;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Automovil;5804;24;>=10;Casa;ninguno;2;1;Bueno
+0;Masculino;Casado;28;1<=X<4;Propio;2;Si;Empleado;creditos pagados con retraso;1;Aumento capital;2169;18;<1;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;35;<1;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;2439;24;<1;Casa;ninguno;1;1;Malo
+0;Masculino;Soltero;39;<1;Propio;2;Si;Obrero/Agricultor;creditos existentes;0;Aumento capital;4526;27;>=10;Casa;ninguno;2;2;Bueno
+0;Masculino;Soltero;25;1<=X<4;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;2210;10;<1;Maquinaria;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;40;1<=X<4;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;2221;15;5<=X<10;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;27;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;2389;18;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;42;>=7;Propio;4;No;Empleado;creditos existentes;0;Aumento capital;3331;18;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;37;>=7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;7409;36;No;Terreno-Construccion;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;38;>=7;Alquilada;3;No;Empleado;creditos pagados;0;Aumento capital;652;9;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;40;4<=X<7;Propio;3;Si;Empleado;creditos pagados con retraso;2;Aumento capital;7678;36;5<=X<10;Automovil;ninguno;2;1;Bueno
+3;Masculino;Soltero;46;>=7;Propio;4;No;Empleado;creditos existentes;0;Educacion;1343;6;<1;Casa;ninguno;2;2;Bueno
+1;Masculino;Soltero;31;4<=X<7;Propio;1;Si;Empleado;creditos existentes;0;Aumento capital;1382;24;1<=X<5;Casa;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;28;<1;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;874;9;No;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;29;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;3590;12;<1;Terreno-Construccion;co-solicitante;1;2;Bueno
+2;Femenino;divorciada/separada;47;1<=X<4;Propio;4;No;Empleado;creditos existentes;0;Educacion;1322;11;>=10;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;36;<1;Alquilada;3;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;1940;18;<1;Ninguno;co-solicitante;1;1;Bueno
+0;Masculino;Soltero;36;>=7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3595;36;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;27;<1;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Educacion;1422;9;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;36;4<=X<7;Propio;3;No;Empleado;creditos existentes;0;Electrodomestico;6742;30;No;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;38;4<=X<7;Propio;3;Si;Profesional/calificado;creditos pagados;0;Automovil;7814;24;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;divorciado/separado;48;1<=X<4;Alquilada;4;Si;Empleado;creditos pagados;0;Automovil;9277;24;No;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;36;>=7;Propio;3;No;Empleado;creditos existentes;0;Reparaciones;2181;30;No;Casa;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;58;Desempleado;Propio;4;No;Empleado;creditos existentes;0;Electrodomestico;1098;18;<1;Automovil;ninguno;2;1;Bueno
+2;Masculino;divorciado/separado;43;4<=X<7;Propio;3;Si;Empleado;creditos pagados;0;Aumento capital;4057;24;<1;Automovil;ninguno;1;1;Malo
+1;Femenino;divorciada/separada;53;<1;Propio;4;No;Empleado;creditos pagados;0;Educacion;795;9;<1;Terreno-Construccion;ninguno;1;1;Malo
+2;Masculino;Soltero;34;4<=X<7;Propio;3;Si;Empleado;creditos existentes;0;Aumento capital;2825;18;No;Ninguno;ninguno;2;2;Bueno
+2;Masculino;Soltero;31;1<=X<4;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;15672;48;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;34;>=7;Propio;3;Si;Profesional/calificado;creditos existentes;0;Reparaciones;6614;36;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;40;<1;Alquilada;3;Si;Empleado;creditos pagados;0;Automovil;7824;28;No;Maquinaria;garante;2;2;Bueno
+1;Masculino;Soltero;43;>=7;Propio;4;Si;Profesional/calificado;creditos existentes;0;Aumento capital;2442;24;<1;Automovil;ninguno;4;2;Bueno
+0;Masculino;Soltero;46;>=7;Propio;4;Si;Empleado;creditos existentes;0;Electrodomestico;1829;15;<1;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;38;1<=X<4;Propio;3;No;Obrero/Agricultor;creditos existentes;0;Educacion;2171;12;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;34;1<=X<4;Propio;3;Si;Empleado;creditos existentes;0;Automovil;5800;36;<1;Automovil;ninguno;2;1;Bueno
+0;Masculino;Soltero;29;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;1169;18;No;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;31;4<=X<7;Propio;2;Si;Profesional/calificado;creditos pagados con retraso;2;Automovil;8947;36;No;Automovil;ninguno;1;2;Bueno
+1;Femenino;divorciada/separada;28;<1;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;2606;21;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;45;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;1592;12;>=10;Terreno-Construccion;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;33;4<=X<7;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;2186;15;No;Maquinaria;ninguno;1;1;Bueno
+1;Masculino;Soltero;42;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Aumento capital;4153;18;<1;Automovil;co-solicitante;1;1;Malo
+1;Masculino;Soltero;43;>=7;Alquilada;4;Si;Empleado;creditos existentes;0;Reparaciones;2625;16;<1;Terreno-Construccion;garante;1;1;Malo
+0;Masculino;divorciado/separado;44;<1;Propio;4;Si;Empleado;creditos existentes;0;Educacion;3485;20;No;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;42;>=7;Alquilada;4;No;Empleado;creditos existentes;0;Automovil;10477;36;No;Ninguno;ninguno;2;1;Bueno
+0;Masculino;Casado;40;1<=X<4;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;1386;15;No;Maquinaria;ninguno;1;1;Bueno
+0;Masculino;Soltero;36;>=7;Propio;1;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;1278;14;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;30;1<=X<4;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;1107;12;<1;Maquinaria;ninguno;1;2;Bueno
+1;Masculino;Soltero;34;4<=X<7;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;3763;21;No;Casa;co-solicitante;1;1;Bueno
+2;Masculino;Casado;27;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Educacion;3711;36;No;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;46;<1;Propio;2;No;Empleado;creditos pagados con retraso;1;Reparaciones;3594;15;<1;Terreno-Construccion;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;33;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;3195;12;No;Casa;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;34;1<=X<4;Propio;2;No;Empleado;creditos pagados con retraso;1;Electrodomestico;4454;36;<1;Casa;ninguno;2;1;Bueno
+2;Femenino;divorciada/separada;35;<1;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;4736;24;<1;Automovil;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;45;>=7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;2991;30;No;Automovil;ninguno;1;1;Bueno
+0;Masculino;divorciado/separado;46;>=7;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;2142;11;>=10;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;31;1<=X<4;Alquilada;2;Si;Empleado;creditos pagados;0;Aumento capital;3161;24;<1;Terreno-Construccion;ninguno;1;1;Malo
+2;Femenino;divorciada/separada;32;1<=X<4;Propio;2;Si;Profesional/calificado;sin creditos;0;Otros;18424;48;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;32;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;2848;10;1<=X<5;Casa;co-solicitante;1;2;Bueno
+1;Masculino;Soltero;48;>=7;Propio;4;Si;Profesional/calificado;creditos pagados;0;Automovil;14896;36;<1;Ninguno;ninguno;1;1;Malo
+1;Masculino;divorciado/separado;33;Desempleado;Propio;1;No;Empleado;creditos pagados;0;Aumento capital;2359;24;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;39;>=7;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Aumento capital;3345;24;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;28;1<=X<4;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;1817;18;<1;Ninguno;ninguno;2;1;Bueno
+0;Masculino;Soltero;37;4<=X<7;Propio;1;Si;Profesional/calificado;creditos pagados con retraso;2;Electrodomestico;12749;48;5<=X<10;Automovil;ninguno;1;1;Bueno
+1;Femenino;divorciada/separada;32;<1;Alquilada;3;No;Empleado;creditos pagados;0;Electrodomestico;1366;9;<1;Terreno-Construccion;ninguno;1;1;Malo
+2;Masculino;Soltero;30;4<=X<7;Alquilada;3;Si;Empleado;creditos pagados;0;Educacion;2002;12;<1;Terreno-Construccion;ninguno;1;2;Bueno
+1;Masculino;divorciado/separado;55;<1;Propio;1;Si;Empleado;creditos pagados;0;Aumento capital;6872;24;<1;Terreno-Construccion;ninguno;1;1;Malo
+1;Masculino;Soltero;46;<1;Propio;2;Si;Empleado;creditos pagados;0;Educacion;697;7;<1;Automovil;ninguno;2;1;Malo
+1;Femenino;divorciada/separada;31;<1;Alquilada;2;No;Empleado;creditos existentes;0;Aumento capital;1049;12;<1;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Soltero;39;4<=X<7;Alquilada;3;Si;Empleado;creditos pagados;0;Automovil;10297;48;<1;Ninguno;ninguno;3;2;Malo
+0;Masculino;Soltero;58;>=7;Propio;4;Si;Empleado;creditos pagados;0;Electrodomestico;1867;18;No;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;43;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados con retraso;1;Educacion;1344;12;<1;Casa;ninguno;2;2;Bueno
+1;Masculino;Soltero;24;<1;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1747;24;<1;Terreno-Construccion;co-solicitante;1;1;Bueno
+2;Femenino;divorciada/separada;32;<1;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;1670;9;<1;Automovil;ninguno;1;1;Malo
+0;Masculino;Soltero;30;1<=X<4;Propio;1;No;Empleado;creditos existentes;0;Educacion;1224;9;<1;Casa;ninguno;2;1;Bueno
+0;Masculino;Soltero;42;>=7;Propio;4;Si;Empleado;creditos existentes;0;Electrodomestico;600;10;5<=X<10;Terreno-Construccion;ninguno;2;2;Bueno
+1;Femenino;divorciada/separada;33;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1498;12;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;30;<1;Propio;3;No;Profesional/calificado;creditos pagados con retraso;1;Electrodomestico;1919;30;1<=X<5;Ninguno;ninguno;2;1;Malo
+3;Femenino;divorciada/separada;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;745;9;<1;Casa;ninguno;1;1;Malo
+2;Masculino;Casado;30;<1;Alquilada;3;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;2063;12;<1;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;42;1<=X<4;Alquilada;4;No;Empleado;creditos pagados;0;Educacion;6288;24;<1;Ninguno;ninguno;1;1;Malo
+0;Masculino;Soltero;46;1<=X<4;Propio;4;Si;Profesional/calificado;creditos existentes;0;Reparaciones;6842;24;No;Terreno-Construccion;ninguno;2;2;Bueno
+0;Masculino;Soltero;45;<1;Propio;3;Si;Profesional/calificado;creditos pagados;0;Reparaciones;3527;12;No;Terreno-Construccion;ninguno;1;2;Bueno
+0;Masculino;Soltero;31;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;1546;10;<1;Casa;ninguno;1;2;Bueno
+0;Masculino;Soltero;31;4<=X<7;Propio;2;Si;Empleado;creditos pagados;0;Aumento capital;929;12;No;Automovil;ninguno;1;1;Bueno
+0;Masculino;Soltero;42;4<=X<7;Propio;1;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;1455;8;<1;Casa;ninguno;3;2;Bueno
+1;Femenino;divorciada/separada;46;<1;Alquilada;1;No;Empleado;creditos pagados;0;Aumento capital;1845;15;<1;Terreno-Construccion;garante;1;1;Bueno
+2;Femenino;divorciada/separada;30;<1;Propio;1;No;Empleado;sin creditos;0;Automovil;8358;48;5<=X<10;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;30;<1;Alquilada;2;Si;Empleado;creditos pagados;0;Aumento capital;3349;24;5<=X<10;Ninguno;ninguno;1;2;Malo
+0;Masculino;Soltero;38;Desempleado;Propio;3;Si;Profesional/calificado;creditos pagados;0;Reparaciones;2859;12;No;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Casado;43;<1;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Aumento capital;1533;18;<1;Terreno-Construccion;co-solicitante;1;2;Malo
+0;Masculino;Soltero;31;>=7;Propio;2;No;Empleado;creditos pagados;0;Electrodomestico;3621;24;1<=X<5;Automovil;ninguno;2;1;Malo
+2;Masculino;Casado;40;Desempleado;Propio;3;Si;Obrero/Agricultor;creditos existentes;0;Aumento capital;3590;18;<1;Automovil;ninguno;3;2;Bueno
+1;Masculino;Soltero;34;4<=X<7;Propio;1;Si;Empleado;creditos pagados con retraso;1;Aumento capital;2145;18;<1;Automovil;ninguno;2;1;Malo
+2;Femenino;divorciada/separada;38;<1;Alquilada;2;No;Empleado;creditos pagados;0;Reparaciones;4113;24;5<=X<10;Automovil;ninguno;1;1;Malo
+0;Femenino;divorciada/separada;26;Desempleado;Propio;2;Si;Profesional/calificado;creditos pagados;0;Aumento capital;10974;36;<1;Automovil;ninguno;2;1;Malo
+1;Femenino;divorciada/separada;29;1<=X<4;Propio;1;Si;Empleado;creditos pagados;0;Reparaciones;1893;12;<1;Terreno-Construccion;garante;1;1;Bueno
+1;Femenino;divorciada/separada;57;>=7;Alquilada;4;Si;Profesional/calificado;creditos existentes;0;Electrodomestico;1231;24;>=10;Terreno-Construccion;ninguno;2;1;Bueno
+3;Masculino;Soltero;49;>=7;Propio;4;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;3656;24;No;Terreno-Construccion;ninguno;2;1;Bueno
+2;Masculino;Soltero;37;>=7;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1154;9;<1;Casa;ninguno;3;1;Bueno
+1;Masculino;Soltero;45;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;4006;28;<1;Automovil;ninguno;1;1;Malo
+2;Masculino;Soltero;30;>=7;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;3069;24;1<=X<5;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Casado;30;>=7;Alquilada;2;No;Empleado;creditos existentes;0;Electrodomestico;1740;6;<1;Maquinaria;ninguno;2;1;Bueno
+2;Masculino;divorciado/separado;47;1<=X<4;Propio;4;No;Empleado;creditos pagados con retraso;1;Reparaciones;2353;21;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;29;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;3556;15;No;Ninguno;ninguno;1;1;Bueno
+0;Masculino;Soltero;35;>=7;Propio;2;Si;Empleado;creditos pagados;0;Electrodomestico;2397;24;5<=X<10;Automovil;ninguno;2;1;Malo
+2;Masculino;Casado;32;<1;Propio;1;No;Obrero/Agricultor;creditos pagados;0;Reparaciones;600;6;<1;Terreno-Construccion;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;26;1<=X<4;Propio;1;No;Empleado;creditos pagados;0;Electrodomestico;1715;30;No;Automovil;ninguno;1;1;Bueno
+2;Masculino;Soltero;25;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;2520;18;5<=X<10;Terreno-Construccion;ninguno;2;1;Malo
+0;Femenino;divorciada/separada;54;>=7;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Electrodomestico;3568;15;<1;Automovil;ninguno;1;1;Bueno
+0;Masculino;Casado;29;4<=X<7;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;7166;30;No;Terreno-Construccion;ninguno;1;1;Bueno
+1;Masculino;Soltero;40;1<=X<4;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Reparaciones;3939;18;<1;Casa;ninguno;2;2;Bueno
+2;Masculino;Soltero;28;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Reparaciones;1514;15;1<=X<5;Casa;garante;1;1;Bueno
+0;Masculino;Soltero;43;1<=X<4;Propio;4;No;Obrero/Agricultor;creditos pagados;0;Automovil;7393;24;<1;Terreno-Construccion;ninguno;1;2;Bueno
+1;Femenino;divorciada/separada;29;Desempleado;Alquilada;2;No;Empleado;creditos pagados;0;Reparaciones;1193;24;<1;Ninguno;co-solicitante;2;1;Malo
+1;Masculino;Soltero;36;>=7;Alquilada;2;No;Empleado;creditos pagados;0;Aumento capital;7297;48;<1;Ninguno;co-solicitante;1;1;Malo
+0;Femenino;divorciada/separada;33;1<=X<4;Propio;2;Si;Empleado;creditos existentes;0;Electrodomestico;2831;24;<1;Automovil;ninguno;1;1;Bueno
+3;Femenino;divorciada/separada;57;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;1258;12;5<=X<10;Automovil;ninguno;1;1;Bueno
+2;Femenino;divorciada/separada;64;1<=X<4;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;753;6;<1;Casa;garante;1;1;Bueno
+2;Masculino;Soltero;42;>=7;Propio;2;No;Empleado;creditos pagados con retraso;1;Aumento capital;2427;18;No;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;47;>=7;Propio;4;No;Obrero/Agricultor;creditos pagados con retraso;1;Educacion;2538;24;<1;Automovil;ninguno;2;2;Malo
+2;Masculino;Casado;28;1<=X<4;Alquilada;2;No;Empleado;creditos pagados;0;Reparaciones;1264;15;1<=X<5;Terreno-Construccion;ninguno;1;1;Malo
+2;Masculino;Soltero;49;4<=X<7;Propio;2;No;Empleado;creditos existentes;0;Aumento capital;8386;30;<1;Terreno-Construccion;ninguno;1;1;Malo
+0;Masculino;Soltero;33;Desempleado;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Aumento capital;4844;30;<1;Automovil;ninguno;1;1;Malo
+3;Femenino;divorciada/separada;48;1<=X<4;Propio;1;Si;Profesional/calificado;creditos pagados;0;Reparaciones;2923;21;1<=X<5;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;26;1<=X<4;Propio;2;No;Empleado;creditos pagados;0;Automovil;8229;36;<1;Terreno-Construccion;ninguno;1;2;Malo
+0;Masculino;Soltero;30;4<=X<7;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Aumento capital;2028;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+1;Femenino;divorciada/separada;25;1<=X<4;Alquilada;2;No;Empleado;creditos existentes;0;Aumento capital;1433;15;<1;Terreno-Construccion;ninguno;2;1;Bueno
+3;Masculino;divorciado/separado;33;<1;Propio;1;No;Empleado;sin creditos;0;Aumento capital;6289;30;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Femenino;divorciada/separada;54;Desempleado;Propio;4;No;Empleado;creditos pagados;0;Electrodomestico;1409;12;1<=X<5;Casa;ninguno;1;1;Bueno
+1;Masculino;Soltero;29;Desempleado;Alquilada;2;Si;Profesional/calificado;creditos pagados;0;Aumento capital;6579;24;<1;Ninguno;ninguno;1;1;Bueno
+2;Masculino;Soltero;48;>=7;Propio;2;No;Obrero/Agricultor;creditos existentes;0;Electrodomestico;1743;18;<1;Terreno-Construccion;ninguno;2;1;Bueno
+0;Masculino;Soltero;37;<1;Propio;1;No;Obrero/Agricultor;creditos existentes;0;Educacion;3565;12;No;Terreno-Construccion;ninguno;2;2;Bueno
+0;Masculino;Soltero;34;>=7;Propio;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1569;15;1<=X<5;Automovil;ninguno;1;2;Bueno
+1;Masculino;Casado;34;4<=X<7;Alquilada;2;No;Obrero/Agricultor;creditos pagados;0;Electrodomestico;1936;18;No;Automovil;ninguno;2;1;Bueno
+1;Masculino;Soltero;30;Desempleado;Propio;2;Si;Profesional/calificado;creditos pagados;0;Aumento capital;3959;24;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;50;>=7;Propio;3;Si;Empleado;creditos pagados;0;Aumento capital;2390;12;No;Automovil;ninguno;1;1;Bueno
+0;Femenino;divorciada/separada;31;4<=X<7;Propio;2;No;Empleado;creditos pagados;0;Aumento capital;1736;12;<1;Casa;ninguno;1;1;Bueno
+1;Masculino;divorciado/separado;40;1<=X<4;Propio;3;Si;Profesional/calificado;creditos pagados;0;Reparaciones;3857;30;<1;Terreno-Construccion;ninguno;1;1;Bueno
+0;Masculino;Soltero;38;>=7;Propio;3;No;Empleado;creditos pagados;0;Electrodomestico;804;8;<1;Automovil;ninguno;1;1;Bueno
+1;Masculino;Soltero;33;1<=X<4;Alquilada;2;Si;Empleado;creditos pagados;0;Electrodomestico;1845;14;<1;Ninguno;ninguno;1;1;Malo
+2;Masculino;Soltero;27;Desempleado;Propio;2;No;Empleado;creditos existentes;0;Reparaciones;4576;24;1<=X<5;Automovil;ninguno;1;1;Bueno
